@@ -1,0 +1,24 @@
+I am in a hard probation right now. It means that I have somehow managed to appeal the ICS department's decision to get kicked out. So I have to get all my classes C or above no matter what. I have basically only 6 more classes before I graduate.This fall I have to take CS 161 no matter what. I am really good at math. I am also really good with Python. I am super sorry that I am constantly bothering you guys. I just wish that we could have created a list/doc that would organize CS classes from easiest to hardest!
+
+If you haven’t already, do CS 121. When I took it, there were 3 projects (with all of them in Python), 4 quizzes with the lowest one dropped, and a final. It was a pretty easy and relatively low-stress upper div for me.
+
+Yeah I took that one. Missed it to pieces! One of the only classes that I felt I learned anything. Along with ICS 33 with Pattis.
+I've had really easy times with 143B, 125, 171, 175.
+143B with Bic was two projects, nothing else. Super easy! Also no lectures at all, everything is posted on day one.
+125 with Jain was a mess, unclear instructions, but really lenient grading. If you need an easy grade, this could work.
+171 with Lathrop had fairly interesting concepts, relatively easy all around.
+175 with Singh was quite a bit of work, but one of the more fun, open-ended classes. We had teams to build a Minecraft AI that did whatever we chose and the TA/professor gave guidance for our final project.
+143B and 175 are considered project courses if that means anything!
+EDIT: Feel free to PM me about any of those (and other classes). Always willing to help!!
+
+i found 112 to be difficult. I took it the first quarter he switched all of the assignments from C++ to JavaScript (I am more comfortable with C++), so I couldn't ask friends from previous quarters for help. He said he wouldn't curve, but he did curve in the end without telling anyone, so it looks like the assignments were harder than he anticipated them to be
+
+The CS 11X Series of class within the graphics & vision are difficult. Lots of them deal with a good component of within it.
+
+145 with Givargis and 171 with Lathrop
+
+171 - do ALL (as many as possible) of the past quizzes he gives you. Basically gives you the answer to 60+% of the questions.
+
+145 - take advantage of the lab tutors and extra credit. One of the easiest A+ I've gotten.
+
+I would recommend looking at INF upper div electives if you are not doing the CS Gen Track

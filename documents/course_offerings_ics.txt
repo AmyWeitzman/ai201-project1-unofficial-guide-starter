@@ -1,0 +1,134 @@
+Title	Fall 2026	Winter 2027	Spring 2027
+Search titles
+Search Fall
+Search Winter
+Search Spring
+
+ICS 3
+Internet Technologies and their Social Impact
+ 	 	Paul Dourish
+ 
+
+ICS 4
+Human Factors for the Web
+ 	TENTATIVE
+ 	 
+
+ICS 5
+Environmental Issues in Information Technology
+Bill Tomlinson
+ 	 	Bill Tomlinson
+ 
+
+ICS 6B
+Boolean Algebra and Logic
+Irene Gassko (2)
+ 	Wayne Hayes
+ 	Wayne Hayes
+ 
+
+ICS 6D
+Discrete Mathematics for Computer Science
+Jing Zhang
+ 	Irene Gassko (2)
+ 	Irene Gassko
+Stanislaw Jarecki
+ 
+
+ICS 6N
+Computational Linear Algebra
+ 	Gopi Meenakshisundaram
+ 	 
+
+ICS 10
+How Computers Work
+ 	Darren A. Denenberg
+ 	Darren A. Denenberg
+ 
+
+ICS 11
+The Internet and Public Policy
+ 	 	Scott Jordan
+ 
+
+ICS 12
+Artificial Intelligence and Society
+Rebecca W Black
+ 	 	 
+
+ICS 31
+Introduction to Programming
+Shannon Alfaro (2)
+ 	Shannon Alfaro
+ 	Shannon Alfaro
+ 
+
+ICS 32
+Programming with Software Libraries
+Thomas Yeh
+ 	Alberto Martins (3)
+ 	Mohammad Moshirpour
+ 
+
+ICS H32
+Python Programming and Libraries (Accelerated)
+Alex Thornton
+ 	 	 
+
+ICS 33
+Intermediate Programming
+Alex Thornton
+ 	Alex Thornton (2)
+ 	Alex Thornton (2)
+ 
+
+ICS 45C
+Programming in C/C++ as a Second Language
+Raymond O. Klefstad
+ 	Raymond O. Klefstad
+ 	Raymond O. Klefstad
+ 
+
+ICS 45J
+Programming in Java as a Second Language
+Emily Navarro
+ 	Emily Navarro
+ 	 
+
+ICS 46
+Data Structure Implementation and Analysis
+Thomas Yeh
+ 	Thomas Yeh
+ 	Michael Shindler
+ 
+
+ICS 51
+Introductory Computer Organization
+Elaheh Bozorgzadeh
+ 	Alexandru Nicolau
+ 	Elaheh Bozorgzadeh
+ 
+
+ICS 53
+Principles in System Design
+Jennifer Lee Wong-ma
+ 	Jennifer Lee Wong-ma
+ 	 
+
+ICS 60
+Computer Games and Society
+Constance Steinkuehler
+ 	 	Constance Steinkuehler
+ 
+
+ICS 139W
+Critical Writing on Information Technology
+Neil Young
+Rebecca W Black (2)
+ 	Shannon Alfaro
+Roderic Nicholaus Crooks
+Darren A. Denenberg
+ 	Shannon Alfaro
+Darren A. Denenberg
+TBD
+ 

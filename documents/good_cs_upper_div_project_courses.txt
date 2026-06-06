@@ -1,0 +1,39 @@
+So I need an upper division project course to fulfill as a CS major and was wondering if there were any good ones to take for this upcoming Spring 2019 quarter.
+
+I'm taking 143b rn and so far it's been quite fun actually although idk how useful it'll be IRL... Anyways I have no clue what other project course to take besides maybe, MAYBE CS 117 with Fowlkess but I can't find much about the course online.
+
+I'm hoping to find a class that's challenging and fun (I tend to find a lot of classes enjoyable) but my problem is finding a course that will also be manageable next quarter, especially since one of my classes is ICS 53/53L with Wong-Ma and I have no clue how that class is gonna turn out for me.
+
+Any advice is appreciated :D
+
+EDIT: If anyone has clues on what CS 117 is like too let me know~ I'm taking 116 rn but I'm like half/half on how I feel about taking another photo-vision course
+
+Stay far away from CS 125
+
+what's wrong with CS 125 😂😂 I mean genuinely idk cause I've never taken it but I've legit heard nothing about that class (neither bad nor good lol)
+
+
+It’s a project class with little guidance on the project itself, combined with constant homework, a midterm, and a final, so much that you’re not even going to have a chance to get started on your project.
+
+hmm I think I might look into CS 145! Not a morning person or physics gal myself but it definitely seems like fun so thanks for the suggestion! Plus I'm open to new courses. But I'm probably going to avoid CS 122B though simply because I couldn't stand Klefstad in my old classes with him and I don't want to risk taking a class where it's his first time teaching the material 😅
+
+
+I took CS 145 last year and honestly one of the most fun and easiest class I've taken at UCI. I'm not a morning person either so 8am lecture wasn't ideal, but throughout the course, there are only about 5-6 lectures (aside from tests) that you might want to go because the professor will go over the project and basically do it for you. Other than that every other lectures are useless so no need to show up :)
+
+IN4MATIX 117 and CS 165, I think. Check them out.
+
+thanks man! seems CS 165 is useful since it builds on 161 so I might be up for it! Says CSE 45C is a prerequisite tho so I'll have to check out what class that is since I don't think I've ever taken that 🤔
+
+I might avoid 117 though simply because I just checked websoc and Ziv is teaching it. I love Professor Ziv but it was tough for me to take notes in his class without falling asleep to that voice of his even tho I enjoyed the last course I took with him
+
+You are welcome.
+
+If you took ICS46 already then you should be also cleared for ICS45C. You can call and verify with an academic counselor.
+
+Well, since it is a project class, I guess it would probably base a lot of the team also. So you would not be alone in the class and you would find a team in which hopefully, not every member falls asleep during lecture.
+
+
+I don't know about good CS courses but I can say that many developer positions that I apply to ( usually 4-5 a day) usually require some knowledge of web development, so CS 122B would be the most useful (although I hear it's also very time consuming!)
+
+
+I plan on learning web development on my own so it's nice to hear it's a useful skill to have! but yes I definitely heard the workload was heavy and time-consuming which doesn't bother me too much, but I'm def worried about the group work since I've heard many bad things about it lol

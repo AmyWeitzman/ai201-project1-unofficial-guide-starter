@@ -1,0 +1,578 @@
+Title	Fall 2026	Winter 2027	Spring 2027
+Search titles
+Search Fall
+Search Winter
+Search Spring
+
+CS 111
+Digital Image Processing
+ 	 	Aditi Majumder
+ 
+
+CS 112
+Computer Graphics
+ 	Aditi Majumder
+ 	 
+
+CS 116
+Computational Photography & Vision
+Alexander Berg
+ 	Charless Fowlkes
+ 	 
+
+CS 117
+Project in Computer Vision
+Judy Hoffman
+ 	 	Charless Fowlkes
+ 
+
+CS 121
+Information Retrieval
+Alberto Martins
+ 	Daye Nam
+ 	Crystle A. Martin
+ 
+
+CS 122A
+Introduction to Data Management
+Sharad Mehrotra
+ 	Faisal Nawab
+ 	Faisal Nawab
+ 
+
+CS 122B
+Project in Databases and Web Applications
+James Herold
+ 	 	Chen Li
+ 
+
+CS 122C
+Principles of Data Management
+ 	Chen Li
+ 	 
+
+CS 125
+Next Generation Search Systems
+ 	Sergio Gago Masague
+ 	 
+
+CS 130
+Introduction to Security and Privacy
+ 	Paul Pearce
+ 	Habiba Farrukh
+ 
+
+CS 131
+Distributed Computing
+ 	Alexander Veidenbaum
+ 	 
+
+CS 132
+Computer Networks
+Scott Jordan
+ 	Marco Levorato
+ 	EECS
+ 
+
+CS 133
+Advanced Computer Networks
+ 	 	Sangeetha Abdu Jyothi
+ 
+
+CS 134
+Computer and Network Security
+ 	Gene Tsudik
+ 	 
+
+CS 137
+Internet Applications Engineering
+ 	 	Mohammad Moshirpour
+ 
+
+CS 141
+Concepts in Programming Languages
+ 	Raymond O. Klefstad
+ 	Raymond O. Klefstad
+ 
+
+CS 142A
+Compilers and Interpreters
+ 	Brian Demsky
+ 	Brian Demsky
+ 
+
+CS 143A
+Principles of Operating Systems
+Nalini Venkatasubramanian
+ 	Ardalan Amiri Sani
+ 	 
+
+CS 145
+Embedded Software
+ 	Ian Harris
+ 	Brian Demsky
+ 
+
+CS 146
+Programming in Multitasking Operating Systems
+Wayne Hayes
+ 	 	 
+
+CS 147
+Internet of Things (IoT) Software and Systems
+Sergio Gago Masague
+ 	 	 
+
+CS 151
+Digital Logic Design
+ 	Mohsen Imani
+ 	 
+
+CS 152
+Computer Systems Architecture
+ 	 	Sang Woo Jun
+ 
+
+CS 161
+Design and Analysis of Algorithms
+Michael Shindler
+ 	Michael Dillencourt
+Ioannis Panageas
+ 	Michael Dillencourt
+ 
+
+CS 162
+Formal Languages and Automata
+Vijay Vazirani
+ 	 	Michael Shindler
+ 
+
+CS 163
+Graph Algorithms
+ 	David Eppstein
+ 	 
+
+CS 164
+Computational Geometry and Geometric Modeling
+David Eppstein
+ 	 	 
+
+CS 165
+Project in Algorithms and Data Structures
+Michael Goodrich
+ 	 	Michael Goodrich
+ 
+
+CS 166
+Quantum Computation and Information
+Sandy Irani
+ 	 	 
+
+CS 167
+Introduction to Applied Cryptography
+ 	Stanislaw Jarecki
+ 	 
+
+CS 169
+Introduction to Optimization
+Ioannis Panageas
+ 	 	 
+
+CS 171
+Introduction to Artificial Intelligence
+Kalev Kask
+ 	Sven Koenig
+ 	Kalev Kask
+ 
+
+CS 172B
+Neural Networks and Deep Learning
+ 	 	Pierre Baldi
+ 
+
+CS 172C
+Artificial Intelligence Frontiers: Technical, Ethical, and Societal
+ 	 	Pierre Baldi
+ 
+
+CS 175
+Project in Artificial Intelligence
+Xiaohui Xie
+Kalev Kask
+ 	Kalev Kask (2)
+ 	Kalev Kask
+Unnat Jain
+ 
+
+CS 177
+Applications of Probability in Computer Science
+Erik Sudderth
+ 	 	 
+
+CS 178
+Machine Learning and Data-Mining
+Stephan M Mandt
+ 	Sameer Singh
+ 	Alexander Berg (2)
+ 
+
+CS 179
+Algorithms for Probabilistic and Deterministic Graphical Models
+ 	 	Alexander Ihler
+ 
+
+CS 180A
+Project in Computer Science
+ 	Sergio Gago Masague
+ 	 
+
+CS 180B
+Project in Computer Science
+ 	 	Sergio Gago Masague
+ 
+
+CS 183
+Introduction to Computational Biology
+BIO SCI
+ 	 	 
+
+CS 184A
+Artificial Intelligence in Biology and Medicine
+Xiaohui Xie
+ 	 	 
+
+CS 189
+Project in Bioinformatics
+Jing Zhang
+ 	 	 
+
+CS 200S
+Seminar in Computer Science Research
+TBD
+ 	TBD
+ 	TBD
+ 
+
+CS 201
+Foundations of Cryptographics Protocols
+Stanislaw Jarecki
+ 	 	 
+
+CS 202
+Applied Cryptography
+ 	 	Stanislaw Jarecki
+ 
+
+CS 203
+Network and Distributed Systems Security
+ 	 	TENTATIVE
+ 
+
+CS 203P
+Network Security
+Paul Pearce
+ 	 	 
+
+CS 204
+Usable Security and Privacy
+Habiba Farrukh
+ 	 	 
+
+CS 205
+Computer and Systems Security
+Qi Chen
+ 	 	 
+
+CS 206
+Principles of Scientific Computing
+ 	 	Xiaohui Xie
+ 
+
+CS 211A
+Visual Computing
+ 	Aditi Majumder
+ 	 
+
+CS 211B
+Advanced Topics in 3D Computer Graphics
+Gopi Meenakshisundaram
+ 	 	 
+
+CS 216
+Image Understanding
+ 	Judy Hoffman
+ 	 
+
+CS 217
+Light and Geometry in Computer Vision
+ 	 	Charless Fowlkes
+ 
+
+CS 221
+Information Retrieval, Filtering, and Classification
+ 	Iftekhar Ahmed
+ 	 
+
+CS 222
+Principles of Data Management
+ 	Chen Li
+ 	 
+
+CS 222P
+Principles of Data Management
+ 	Chen Li
+ 	 
+
+CS 223
+Transaction Processing and Distributed Data Management
+ 	Sharad Mehrotra
+ 	 
+
+CS 223P
+Transaction Processing and Distributed Data Management
+ 	 	Faisal Nawab
+ 
+
+CS 224P
+Advanced Data Management
+Chen Li
+ 	 	 
+
+CS 230
+Distributed Computer Systems
+ 	Nalini Venkatasubramanian
+ 	 
+
+CS 231P
+Parallel and Distributed Computing for Professionals
+ 	 	TBD
+ 
+
+CS 232
+Computer and Communication Networks
+Marco Levorato
+ 	 	 
+
+CS 234
+Advanced Networks
+ 	 	Sangeetha Abdu Jyothi
+ 
+
+CS 236
+Wireless and Mobile Networking
+ 	 	Marco Levorato
+ 
+
+CS 237
+Middleware for Networked and Distributed Systems
+ 	 	Nalini Venkatasubramanian
+ 
+
+CS 238
+Advanced Operating Systems
+ 	 	Ardalan Amiri Sani
+ 
+
+CS 238P
+Operating Systems
+Tony Givargis
+ 	 	 
+
+CS 241
+Advanced Compiler Construction
+ 	Michael Franz
+ 	 
+
+CS 244
+Introduction to Embedded and Ubiquitous Systems
+Elaheh Bozorgzadeh
+ 	 	 
+
+CS 244P
+Internet of Things
+Sergio Gago Masague
+ 	 	 
+
+CS 247
+Complex Software Systems: Project Course
+ 	 	Michael Franz
+ 
+
+CS 250A
+Computer Systems Architecture
+ 	Alexander Veidenbaum
+ 	 
+
+CS 250B
+Modern Computer Systems
+ 	 	Sang Woo Jun
+ 
+
+CS 250P
+Computer Systems Architecture
+ 	Sang Woo Jun
+ 	 
+
+CS 253
+Analysis of Programming Languages
+ 	Thomas Zimmermann
+ 	 
+
+CS 253P
+Advanced Programming and Problem Solving
+Raymond O. Klefstad
+ 	 	 
+
+CS 256
+Systems and Machine Learning
+ 	Sangeetha Abdu Jyothi
+ 	 
+
+CS 257
+Brain-Inspired Learning Systems
+ 	Mohsen Imani
+ 	 
+
+CS 259S
+Seminar in Design Science
+Nikil Dutt
+ 	Nikil Dutt
+ 	 
+
+CS 260P
+Algorithms with Applications
+Michael Shindler
+ 	 	 
+
+CS 261
+Data Structures
+ 	 	David Eppstein
+ 
+
+CS 261P
+Data Structures with Applications
+ 	Thomas Yeh
+ 	 
+
+CS 262P
+Text Processing and Pattern Matching
+Michael Goodrich
+ 	 	 
+
+CS 263
+Analysis of Algorithms
+ 	Michael Goodrich
+ 	 
+
+CS 265
+Graph Algorithms
+ 	David Eppstein
+ 	 
+
+CS 266
+Computational Geometry
+David Eppstein
+ 	 	 
+
+CS 268
+Introduction to Optimization
+Ioannis Panageas
+ 	 	 
+
+CS 271
+Introduction to Artificial Intelligence
+ 	Rina Dechter
+ 	 
+
+CS 271P
+Artificial Intelligence
+TBD
+ 	 	 
+
+CS 273A
+Machine Learning
+ 	Alexander Ihler
+ 	 
+
+CS 273P
+Machine Learning and Data Mining
+ 	Xiaohui Xie
+ 	 
+
+CS 274B
+Learning in Graphical Models
+ 	 	Erik Sudderth
+ 
+
+CS 274C
+Neural Networks and Deep Learning
+ 	 	Pierre Baldi
+ 
+
+CS 274D
+Artificial Intelligence Frontiers: Technical, Ethical, and Societal
+ 	 	Pierre Baldi
+ 
+
+CS 274E
+Deep Generative Models
+ 	Stephan M Mandt
+ 	 
+
+CS 274P
+Neural Networks and Deep Learning
+ 	 	Pierre Baldi
+ 
+
+CS 276
+Network-Based Reasoning/Belief Networks
+ 	 	Rina Dechter
+ 
+
+CS 279
+Foundations of Multi-Agent Systems
+Sven Koenig
+ 	 	 
+
+CS 280
+Algorithmic Game Theory
+Ioannis Panageas
+ 	 	 
+
+CS 284A
+Representations and Algorithms for Molecular Biology
+Xiaohui Xie
+ 	 	 
+
+CS 287
+Approximation Algorithms
+ 	Vijay Vazirani
+ 	 
+
+CS 295
+Special Topics in Information and Computer Science
+Jing Zhang
+ 	Unnat Jain
+ 	Rina Dechter
+Paul Pearce
+ 
+
+CS 295P
+Keystone Project for Computer Science
+ 	Sergio Gago Masague
+Ian Harris
+Wayne Hayes
+Hadar Ziv
+ 	 
+
+CS 296P
+Capstone Professional Writing and Communication for Computer Science Careers
+ 	 	TBD
+ 
+
+CS 297P
+Capstone Design Project for Computer Science
+ 	 	Hadar Ziv
+Ian Harris
+Sergio Gago Masague
+Wayne Hayes

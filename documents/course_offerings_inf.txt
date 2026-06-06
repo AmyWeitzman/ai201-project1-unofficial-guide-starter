@@ -1,0 +1,202 @@
+Title	Fall 2026	Winter 2027	Spring 2027
+Search titles
+Search Fall
+Search Winter
+Search Spring
+
+INF 131
+Human Computer Interaction
+Darren A. Denenberg
+ 	Elena Agapie
+ 	Stacy Marie Branham
+ 
+
+INF 132
+Advanced Topics in Human-Computer Interaction
+ 	Anne Marie Piper
+ 	Anne Marie Piper
+ 
+
+INF 133
+User Interaction Software
+TBD
+ 	Daniel Epstein
+ 	 
+
+INF 134
+Project in User Interaction Software
+ 	 	TBD
+ 
+
+INF 143
+Information Visualization
+ 	 	Alberto Martins
+ 
+
+INF 148
+Designing for the Internet of Things
+ 	Kylie Aine Peppler
+ 	 
+
+INF 151
+Project Management
+Samuel Roberts
+ 	 	Thomas Zimmermann
+ 
+
+INF 153
+Computer-Supported Cooperative Work
+ 	 	Aehong Min
+ 
+
+INF 161
+Social Analysis of Computing
+Roderic Nicholaus Crooks
+ 	Roderic Nicholaus Crooks
+ 	 
+
+INF 162
+Information Systems in Organizations
+ 	TENTATIVE
+ 	 
+
+INF 163
+Project in the Social and Organizational Impacts of Computing
+ 	 	TENTATIVE
+ 
+
+INF 164
+Children
+ 	 	Kurt Squire
+ 
+
+INF 171
+Introduction to Health Informatics
+TBD
+ 	Madhusudhana Reddy
+ 	 
+
+INF 172
+Project in Health Informatics
+ 	TENTATIVE
+ 	 
+
+INF 173
+Consumer Health Informatics
+ 	 	Judith Borghouts
+ 
+
+INF 174
+Health Data Analytics
+ 	Kai Zheng
+ 	 
+
+INF 191A
+Senior Design Project
+Matthew J. Bietz
+ 	Darren A. Denenberg
+Hadar Ziv
+Emily Navarro
+ 	 
+
+INF 191B
+Senior Design Project
+ 	Matthew J. Bietz
+ 	Darren A. Denenberg
+Emily Navarro
+Hadar Ziv
+ 
+
+INF 201
+Research Methodology for Informatics
+Stacy Marie Branham
+ 	 	 
+
+INF 203
+Qualitative Research Methods in Information Systems
+ 	Anne Marie Piper
+ 	 
+
+INF 205
+Quantitative Research Methods in Information Systems
+ 	 	Constance Steinkuehler
+ 
+
+INF 207S
+Doctoral Seminar on Research and Writing
+ 	Melissa Mazmanian
+ 	Melissa Mazmanian
+ 
+
+INF 209S
+Seminar in Informatics
+Paul Dourish
+ 	Paul Dourish
+ 	Paul Dourish
+ 
+
+INF 231
+User Interface Design and Evaluation
+ 	 	Stacy Marie Branham
+ 
+
+INF 232
+Research in Human-Computer Interaction
+ 	TBD
+ 	 
+
+INF 244
+Introduction to Embedded and Ubiquitous Systems
+Elaheh Bozorgzadeh
+ 	 	 
+
+INF 261
+Social Analysis of Computing
+Roderic Nicholaus Crooks
+ 	 	 
+
+INF 265
+Theories of Computerization and Information Systems
+ 	Paul Dourish
+ 	 
+
+INF 280
+Overview of Human-Computer Interaction and Design
+Matthew J. Bietz
+ 	 	 
+
+INF 281
+User Needs Analysis
+Anne Marie Piper
+ 	 	 
+
+INF 282
+Design and Prototyping
+TBD
+ 	 	 
+
+INF 283
+User Experience Evaluation
+ 	Blake M Dicosola
+ 	 
+
+INF 284
+Advanced Design and Prototyping
+ 	Sarah Murray
+ 	 
+
+INF 285
+Interactive Technology Studio
+ 	 	Daniel Epstein
+ 
+
+INF 287
+Capstone Project in HCI and Design
+ 	 	Matthew J. Bietz
+ 
+
+INF 289
+Special Topics in Applying Human-Computer Interaction and Design in Industry
+ 	TBD
+ 	TBD
+ 

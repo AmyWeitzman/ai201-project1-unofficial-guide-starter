@@ -1,0 +1,242 @@
+Informatics (IN4MATX)
+Courses
+IN4MATX 43.  Introduction to Software Engineering.  4 Units.  
+Concepts, methods, and current practice of software engineering. Large-scale software production, software life cycle models, principles and techniques for each stage of development.
+Prerequisite: I&C SCI 32 or I&C SCI H32.   
+Overlaps with I&C SCI 105.  
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 80.  Special Topics in Informatics.  4 Units.  
+Designed for informatics instructors to pilot new teaching materials and prototype new class. The format of the class is flexible based on the content to be offered in the future.  
+Prerequisite: Prerequisites vary.  
+Repeatability: May be taken 3 times as topics vary  
+Restrictions: School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX H81.  Ethics, Technology, and Design.  4 Units.  
+Provides a critical framework for how and why biases of many kinds are built into everyday digital tools. Reflections on ethics, technology, and design through case studies drawn from machine learning, CS education, engineering, social media, and criminal justice.
+Restrictions: Campuswide Honors Collegium only.   
+(III)  
+IN4MATX 101.  Concepts in Programming Languages.  4 Units.  
+In-depth study of several contemporary programming languages stressing variety in data structures, operations, notation, and control. Examination of different programming paradigms, such as logic programming, functional programming and object-oriented programming; implementation strategies, programming environments, and programming style.
+Prerequisite: (I&C SCI 51 with a minimum grade of C or EECS 31 with a minimum grade of C) and I&C SCI 46 with a minimum grade of C.   
+Same as COMPSCI 141  
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students only.   
+IN4MATX 113.  Requirements Analysis and Engineering.  4 Units.  
+Equips students to develop techniques of software-intensive systems through successful requirements analysis techniques and requirements engineering. Students learn systematic process of developing requirements through cooperative problem analysis, representation, and validation.
+Prerequisite: I&C SCI 33 with a minimum grade of C and IN4MATX 43 with a minimum grade of C.   
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 115.  Software Testing, Analysis, and Quality Assurance.  4 Units.  
+Preparation for developing high-quality software through successful veriﬁcation and validation techniques. Fundamental principles of software testing, implementing software testing practices, ensuring the thoroughness of testing to gain conﬁdence in the correctness of the software.
+Prerequisite: (I&C SCI 45J with a minimum grade of C or I&C SCI 45C with a minimum grade of C or I&C SCI 46 with a minimum grade of C) and IN4MATX 43 with a minimum grade of C.   
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 117.  Project in Software System Design.  4 Units.  
+Specification, design, construction, testing, and documentation of a complete software system. Special emphasis on the need for and use of teamwork, careful planning, and other techniques for working with large systems.
+Prerequisite: IN4MATX 43 and I&C SCI 33.   
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 119.  Engineering Artificial Intelligence Software.  4 Units.  
+Design, deploy, and manage software incorporating AI components in real-world production environments. Topics include types of models, in-house vs. third-party models, retrieval augmented generation, fine-tuning, prompt engineering, model testing, and reliability.
+Prerequisite: (I&C SCI 45C with a minimum grade of C or I&C SCI 45J with a minimum grade of C) and (STATS 7 or STATS 67).   
+Restrictions: Informatics majors and Software Engineering majors have the first consideration for enrollment. School of Information and Computer Sciences students only. Computer Science Engineering Majors have second consideration for enrollment.  
+IN4MATX 121.  Software Design: Applications.  4 Units.  
+Introduction to application design: designing the overall functionality of a software application. Topics include general design theory, software design theory, and software architecture. Includes practice in designing and case studies of existing designs.
+Prerequisite: I&C SCI 33 with a minimum grade of C or GDIM 33 with a minimum grade of C.   
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 122.  Software Design: Structure and Implementation.  4 Units.  
+Introduction to implementation design: designing the internals of a software application. Topics include design aesthetics, design implementation, design recovery, design patterns, and component reuse. Includes practice in designing and case studies of existing designs.
+Prerequisite: (I&C SCI 45J or I&C SCI 46) and (IN4MATX 101 or COMPSCI 141).   
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 124.  Internet Applications Engineering.  4 Units.  
+Concepts in Internet applications engineering with emphasis on the Web. Peer-to-Peer and Interoperability. Topics include HTTP and REST, Remote Procedure/Method Calls, Web Services, data representations, content distribution networks, identity management, relevant W3C/IETF standards, and relevant new large-scale computing styles.
+Prerequisite: (COMPSCI 132 or EECS 148) and I&C SCI 45J.   
+Same as COMPSCI 137  
+Overlaps with COMPSCI 122B.  
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 125.  Computer Game Development.  4 Units.  
+Introduction to the principles of interactive 2D and 3D computer game development. Concepts in computer graphics, algorithms, software engineering, art and graphics, music and sound, story analysis, and artificial intelligence are presented and are the basis for student work.
+Prerequisite: COMPSCI 112 or COMPSCI 171 or IN4MATX 121 or ART 106B or I&C SCI 163 or I&C SCI 166.   
+Same as COMPSCI 113  
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 131.  Human Computer Interaction.  4 Units.  
+Basic principles of human-computer interaction (HCI). Introduces students to user interface design techniques, design guidelines, and usability testing. Students gain the ability to design and evaluate user interfaces and become familiar with some of the outstanding research problems in HCI.
+Prerequisite: I&C SCI 10 with a minimum grade of C or I&C SCI 31 with a minimum grade of C or I&C SCI 32A with a minimum grade of C or I&C SCI H32 with a minimum grade of C or GDIM 31 with a minimum grade of C or ENGR 10 with a minimum grade of C or ENGRMAE 10 with a minimum grade of C or EECS 10 with a minimum grade of C.   
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 132.  Advanced Topics in Human-Computer Interaction.  4 Units.  
+Advanced material in the space of Human-Computer Interaction (HCI) through application and practice. Introduces user research methods such as observation, interviewing, usability testing, design activities, and user analytics.
+Prerequisite: IN4MATX 131.   
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 133.  User Interaction Software.  4 Units.  
+Introduction to human-computer interaction programming. Emphasis on current tools, standards, methodologies for implementing effective interaction designs. Widget toolkits, Web interface programming, geo-spatial and map interfaces, mobile phone interfaces.
+Prerequisite: I&C SCI 45J with a minimum grade of C or I&C SCI 45C with a minimum grade of C.   
+Restrictions: Computer Science and Engineering majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 134.  Advanced Topics in User Interface Software.  4 Units.  
+Advanced material in the space of human-computer interaction programming. Introduces core interface toolkit concepts including interface states, event handling, layout and positioning, and custom interactions. Materials Fee
+Prerequisite: IN4MATX 131 and IN4MATX 133.   
+Restrictions: Informatics majors, Software Engineering majors, and Business Information Management majors have the first consideration for enrollment. School of Information and Computer Sciences students only. Computer Science Engineering Majors have second consideration for enrollment.  
+IN4MATX 141.  Information Retrieval.  4 Units.  
+An introduction to information retrieval including indexing, retrieval, classifying, and clustering text and multimedia documents.
+Prerequisite: (I&C SCI 45C with a minimum grade of C or I&C SCI 45J with a minimum grade of C) and (STATS 7 or STATS 67 or AP Statistics with a minimum score of 3).   
+Same as COMPSCI 121  
+Restrictions: School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 143.  Information Visualization.  4 Units.  
+Introduction to interactive visual interfaces for large datasets, and to principles of human visual perception and human computer interaction that inform their design. Various applications for data analysis and monitoring are discussed.
+Prerequisite: (IN4MATX 131 with a minimum grade of C or IN4MATX 43 with a minimum grade of C) and (I&C SCI 31 with a minimum grade of C or I&C SCI H32 with a minimum grade of C).   
+Restrictions: School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 148.  Designing for the Internet of Things.  4 Units.  
+Introduction to design principles for Internet of Things applications. Prototyping, design, and evaluation of physical computing applications, smart environments, embedded systems, and future computing scenarios. Includes hands-on in-class laboratory exercises. Materials Fee
+Prerequisite: I&C SCI 10 with a minimum grade of C or I&C SCI 31 with a minimum grade of C or I&C SCI H32 with a minimum grade of C or I&C SCI 32A with a minimum grade of C.   
+Restrictions: School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 151.  Project Management.  4 Units.  
+Introduces theoretical and practical aspects of project management. Topics include organizational theory, group behavior, project management skills, case studies, personal and group productivity tools, management of distributed work, stakeholders, consultants, and knowledge management. Students do a project exercise.
+Prerequisite: IN4MATX 43 or GDIM 61.   
+Restrictions: School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 153.  Design of Social and Interpersonal Technologies.  4 Units.  
+Considerations around the design of technologies beyond the individual. Topics may include social media, messaging and communication, feeds, algorithmic recommendations, privacy, and access.
+Prerequisite: (IN4MATX 161 or IN4MATX 43) and (I&C SCI 31 with a minimum grade of C or I&C SCI H32 with a minimum grade of C).   
+Restrictions: Informatics majors, Software Engineering majors, and Business Information Management majors have the first consideration for enrollment. School of Information and Computer Sciences students only.   
+IN4MATX 161.  Social Analysis of Computing.  4 Units.  
+Examines current computing technologies and their consequences at the individual, group, community, and societal level. Topics may include privacy, trust, identity, reputation, governance, ethics, social justice, and culture.
+Prerequisite: I&C SCI 10 with a minimum grade of C or I&C SCI 31 with a minimum grade of C or I&C SCI 32A with a minimum grade of C or I&C SCI H32 with a minimum grade of C or ENGR 10 with a minimum grade of C or EECS 10 with a minimum grade of C or ENGRMAE 10 with a minimum grade of C. Satisfactory completion of the Lower-Division Writing requirement.  
+Restrictions: School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 162.  Information Systems in Organizations.  4 Units.  
+Introduction to role of information systems in organizations, components and structure of organizational information systems, and techniques used in information systems analysis, design, and implementation.
+Prerequisite: I&C SCI 10 with a minimum grade of C or I&C SCI 31 with a minimum grade of C or I&C SCI H32 with a minimum grade of C or GDIM 31 with a minimum grade of C.   
+Restrictions: Informatics majors and Software Engineering majors have the first consideration for enrollment. School of Information and Computer Sciences students only.   
+IN4MATX 163.  Project in Organization Analysis of Information Systems.  4 Units.  
+Students undertake a project in analyzing the use of information systems in organizations. Introduces research methods such as observation, interviewing, and document analysis. Students gain experience with techniques including jotting, writing field notes, qualitative coding, and memoing.
+Prerequisite: IN4MATX 162 or IN4MATX 162W.   
+Restrictions: Informatics majors, Software Engineering majors, and Business Information Management majors have the first consideration for enrollment. School of Information and Computer Sciences students only.   
+IN4MATX 164.  Children's Learning and Media.  4 Units.  
+Examines how popular media may impact how young people learn, develop, and communicate by looking at research related to the impacts of a wide range of popular media including television, video games, digital environments, mobile devices, and other multimedia.
+Prerequisite: Satisfactory completion of the Lower-Division Writing requirement.  
+Same as EDUC 130  
+Restrictions: Education Sciences majors, Informatics majors, and Game Design and Interactive Media majors have the first consideration for enrollment. School of Information and Computer Sciences students only.   
+IN4MATX 171.  Introduction to Health Informatics.  4 Units.  
+Broad overview of medical informatics for students with varied backgrounds. Electronic medical records, online resources, mobile technologies, patient safety, and computational design. Legal, ethical, and public policy issues. Health systems management. Evaluation and fieldwork for health systems.
+Prerequisite: WRITING 60 with a minimum grade of C or WRITING 30 with a minimum grade of C or WRITING 31 with a minimum grade of C or HUMAN 1C with a minimum grade of C or HUMAN H1C with a minimum grade of C.   
+Same as PUBHLTH 105  
+Restrictions: Satisfactory completion of the Lower-Division Writing requirement.  
+IN4MATX 172.  Project in Health Informatics.  4 Units.  
+Students undertake significant quarter-long projects related to health informatics. Topics may include field evaluations of health care technologies, prototypes, iterative design, and system implementations.
+Prerequisite: PUBHLTH 105 or IN4MATX 171.   
+Same as PUBHLTH 106  
+IN4MATX 173.  Consumer Health Informatics.  4 Units.  
+Consumer health informatics is a subfield of health informatics aimed to empower healthcare consumers through a variety of consumer-facing technologies. Covers health behavior change, health literacy, social support, and the design, evaluation, and implementation of major technological applications.
+Prerequisite: IN4MATX 171 with a minimum grade of C or PUBHLTH 105 with a minimum grade of C.   
+Same as PUBHLTH 109  
+Repeatability: May be taken for credit 3 times  
+Restrictions: Public Health majors, Health Informatics minors, and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 174.  Health Data Analytics.  4 Units.  
+The increasing availability of electronic heath data provides an unprecedented opportunity to use data-driven approaches to improve human health. Equips students with essential skills in curating, managing, and analyzing health data, focusing on electronic health records.
+Prerequisite: IN4MATX 171 with a minimum grade of C or PUBHLTH 105 with a minimum grade of C.   
+Same as PUBHLTH 110  
+Restrictions: Public Health majors and School of Information and Computer Sciences students have the first consideration for enrollment.   
+IN4MATX 190.  Special Topics in Informatics.  4 Units.  
+Studies in selected areas of informatics. Topics addressed vary each quarter.
+Prerequisite: Prerequisites vary.  
+Repeatability: May be taken unlimited times as topics vary  
+IN4MATX 191A.  Senior Design Project.  4 Units.  
+Group supervised project in which students analyze, specify, design, construct, evaluate, and adapt a significant information processing system. Topics include team management, professional ethics, and systems analysis.
+Prerequisite: IN4MATX 113 and IN4MATX 121 and IN4MATX 131 and IN4MATX 151.   
+Restrictions: Seniors, Software Engineering majors, and Informatics majors have the first consideration for enrollment.   
+IN4MATX 191B.  Senior Design Project.  4 Units.  
+Group supervised project in which students analyze, specify, design, construct, evaluate, and adapt a significant information processing system. Topics include team management, professional ethics, and systems analysis.
+Prerequisite: IN4MATX 191A. In Progress (IP) grade for IN4MATX 191A is also accepted.  
+Restrictions: Seniors only.   
+IN4MATX H198.  Honors Research.  4 Units.  
+Directed independent research in Informatics for honors students.
+Prerequisite: Satisfactory completion of the Lower-Division Writing requirement.  
+Repeatability: May be taken unlimited times  
+Restrictions: Campuswide Honors Collegium only. School of Information and Computer Sciences Honors students only.  
+IN4MATX 199.  Individual Study.  2-5 Units.  
+Individual research or investigation under the direction of an individual faculty member.
+Repeatability: May be taken unlimited times  
+IN4MATX 201.  Research Methodology for Informatics.  4 Units.  
+Introduction to strategies and idioms of research in Informatics. Includes examination of issues in scientific inquiry, qualitative and quantitative methods, and research design. Both classic texts and contemporary research literature are read and analyzed.
+IN4MATX 203.  Qualitative Research Methods in Information Systems.  4 Units.  
+Introduction to qualitative research methods used to study computerization and information systems, such as open-ended interviewing, participant observation, and ethnography. Studies of the methods in practice through examination of research literature.
+Prerequisite: IN4MATX 261 with a minimum grade of B- or IN4MATX 251 with a minimum grade of B-.   
+IN4MATX 205.  Quantitative Research Methods in Information Systems.  4 Units.  
+Quantitative research methods used to study computerization and information systems. Design of instruments, sampling, sample sizes, and data analysis. Validity and reliability. Longitudinal versus cross-sectional designs. Analysis of secondary data. Studies of the methods through examination of research literature.
+Prerequisite: IN4MATX 251 with a minimum grade of B- or IN4MATX 261 with a minimum grade of B-. Basic knowledge of elementary statistics is also required.  
+IN4MATX 207S.  Doctoral Seminar on Research and Writing.  2 Units.  
+Doctoral seminar centered on original research and writing. Provides a chance for doctoral students at all levels to present original work, brainstorm ongoing issues, and learn to provide and receive critical feedback from peers.
+Grading Option: Satisfactory/Unsatisfactory only  
+Repeatability: May be taken unlimited times  
+IN4MATX 209S.  Seminar in Informatics.  2 Units.  
+Current research and research trends in informatics. Forum for presentation and criticism by students of research work in progress.
+Repeatability: May be taken unlimited times as topics vary  
+IN4MATX 231.  User Interface Design and Evaluation.  4 Units.  
+Introduction to the design and evaluation of user interfaces, with an emphasis on methodology. Cognitive principles, design life cycle, on-line and off-line prototyping techniques. Toolkits and architectures for interactive systems. Evaluation techniques, including heuristic and laboratory methods.
+IN4MATX 232.  Research in Human-Centered Computing.  4 Units.  
+Introduction to contemporary topics in human-computer interaction, including methods, technologies, design, and evaluation. Emerging application domains and their challenges to traditional research methods. Advanced architectures and technologies. Critical issues.
+Prerequisite: Some familiarity with HCI principles.  
+IN4MATX 241.  Introduction to Ubiquitous Computing.  4 Units.  
+The "disappearing computer" paradigm. Differences to the desktop computing model: applications, interaction in augmented environments, security, alternate media, small operating systems, sensors, and embedded systems design. Evaluation by project work and class participation.
+Same as COMPSCI 248A  
+IN4MATX 244.  Introduction to Embedded and Ubiquitous Systems.  4 Units.  
+Embedded and ubiquitous system technologies including processors, DSP, memory, and software. System interfacing basics; communication strategies; sensors and actuators, mobile and wireless technology. Using pre-designed hardware and software components. Design case studies in wireless, multimedia, and/or networking domains.
+Prerequisite: I&C SCI 51 and COMPSCI 152 and COMPSCI 161 and (I&C SCI 6N or MATH 3A or MATH 6G or I&C SCI 6D). B.S. degree in Computer Science is also accepted.  
+Same as COMPSCI 244  
+IN4MATX 251.  Computer-Supported Cooperative Work.  4 Units.  
+The role of information systems in supporting work in groups and organizations. Examines various technologies designed to support communication, information sharing, and coordination. Focuses on behavioral and social aspects of designing and using group support technologies.
+IN4MATX 261.  Social Analysis of Computing.  4 Units.  
+The social and economic impacts of computing and information technologies on groups, organizations, and society. Topics include computerization and changes in the character of work, social control and privacy, electronic communities, and risks of safety-critical systems to people.
+IN4MATX 263.  Computerization, Work, and Organizations.  4 Units.  
+Selected topics in the influence of computerization and information systems in transforming work and organizations. Theories of organization and organizational change. Processes by which diverse information technologies influence changes in work and organizations over short and long time periods.
+Prerequisite: IN4MATX 251 with a minimum grade of B- or IN4MATX 261 with a minimum grade of B-.   
+IN4MATX 265.  Theories of Information Society .  4 Units.  
+Social and economic conceptions of information technology. Macrosocial and economic conditions that foster changes in information technologies. Social construction of information and computer technology in professional worlds. Theories of information technology and large-scale social change.
+Prerequisite: IN4MATX 251 with a minimum grade of B- or IN4MATX 261 with a minimum grade of B-.   
+IN4MATX 267.  Digital Media and Society.  4 Units.  
+Selected topics in the technological and social aspects of online interactions, and policy including online games, social media, electronic activism, e-commerce, and digital libraries. Media-theoretic approaches to digital technology. Architectures, infrastructure considerations, and their consequences.
+Prerequisite: IN4MATX 251 or IN4MATX 261.   
+IN4MATX 273.  Information Technology in Global Sustainability.  4 Units.  
+Explores the relationship between recent developments in information technology and the global transition to sustainability. Topics include the role of IT systems in the provision of human needs and wants (e.g., smart grids, food systems, and other IT-enabled infrastructure).
+IN4MATX 280.  Overview of Human-Computer Interaction and Design .  4 Units.  
+Introduction to human-computer interaction and user-centered design. The material is focused on laying the groundwork for understanding the history, importance, and methods of human-computer interaction and design.
+Restrictions: Master of Human Computer Interaction and Design only.   
+IN4MATX 281.  User Needs Analysis .  4 Units.  
+Understanding the user's context, needs, and preferences. Topics include interviews and observations, modeling the context, flow, culture, space, and artifacts involved in an endeavor, ways of aggregating what is found, and presenting these findings to others.
+Prerequisite: IN4MATX 280 with a minimum grade of B-.   
+Restrictions: Master of Human Computer Interaction and Design only.   
+IN4MATX 282.  Design and Prototyping .  4 Units.  
+Introduction to user-centered design and prototyping. Focused on practical methods for interaction design. Topics include the nature of design and the challenges to creating and evaluating good designs, as well specific skills for designing interactive systems.
+Prerequisite: IN4MATX 280 with a minimum grade of B-.   
+IN4MATX 283.  User Experience Evaluation .  4 Units.  
+Evaluating prototypes and completed systems. Topics include comparative analysis, laboratory experiments, heuristic evaluation, cognitive walkthroughs, surveys, clickstreams, and help-desk.
+Prerequisite: IN4MATX 280 with a minimum grade of B-.   
+Restrictions: Master of Human Computer Interaction and Design only.   
+IN4MATX 284.  Advanced Design and Prototyping .  4 Units.  
+Develop and communicate interactive technology design prototypes. Moving concepts from brainstorming and paper prototypes to wireframe and limited functionality mock-ups.
+Prerequisite: IN4MATX 282 with a minimum grade of B-.   
+Restrictions: Master of Human Computer Interaction and Design only.   
+IN4MATX 285.  Interactive Technology Studio .  4 Units.  
+Technologies, languages, and skills required for creating prototypes to communicate interactive technology concepts. Topics include HTTP, CSS, CSS scripting, AJAX, Design Patterns, Javascript, Javascript libraries such as jQuery, SQL, MVC, and cloud architectures.
+Prerequisite: IN4MATX 280 with a minimum grade of B-.   
+Restrictions: Master of Human Computer Interaction and Design only.   
+IN4MATX 286.  Innovations in HCI and Design .  4 Units.  
+Recent social and technological developments in human-computer interaction and design. Topics will vary as the field progresses but include novel input techniques, novel platforms, and innovations in theory and methods of design.
+Prerequisite: IN4MATX 280 with a minimum grade of B-.   
+IN4MATX 287.  Capstone Project in HCI and Design .  4 Units.  
+Group project that reinforces all concepts learned in this program, including knowing where user experience work is most appropriate and essential, and executing the appropriate steps.
+Prerequisite: IN4MATX 283 with a minimum grade of B- and IN4MATX 284 with a minimum grade of B-.   
+Restrictions: Human Computer Interaction and Design majors only.   
+IN4MATX 288.  Capstone Project and Portfolio .  4 Units.  
+Completion of capstone projects and development of portfolios. Ideation, critique, development, and critique.
+Prerequisite: IN4MATX 287 with a minimum grade of B-.   
+IN4MATX 289.  Special Topics in Applying Human-Computer Interaction and Design in Industry.  4 Units.  
+Selected topics related to understanding and applying human-computer interaction and design concepts and practices within the User Experience industry. Topics addressed vary each quarter.
+Grading Option: Satisfactory/Unsatisfactory only  
+Repeatability: May be taken 4 times as topics vary  
+Restrictions: Human Computer Interaction and Design majors and School of Information and Computer Sciences students only.   
+IN4MATX 290.  Research Seminar.  2 Units.  
+Forum for presentation and criticism by students of research work in progress. Presentation of problem areas and related work. Specific goals and progress of research.
+Grading Option: Satisfactory/Unsatisfactory only  
+Repeatability: May be taken unlimited times  
+IN4MATX 295.  Special Topics in Informatics.  4 Units.  
+Studies in selected areas of informatics. Topics addressed vary each quarter.
+Repeatability: May be taken unlimited times as topics vary  
+IN4MATX 298.  Thesis Supervision.  2-12 Units.  
+Individual research or investigation conducted in preparation for the M.S. thesis option or the dissertation requirements for the Ph.D. program.
+Repeatability: May be taken unlimited times  
+IN4MATX 299.  Individual Study.  1-12 Units.  
+Individual research or investigation under the direction of an individual faculty member.
+Repeatability: May be taken unlimited times  
