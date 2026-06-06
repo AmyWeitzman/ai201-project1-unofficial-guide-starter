@@ -1,0 +1,21 @@
+Hello. I'm almost done with my core CS classes, and I have to say, I'm feeling pretty burnt out. This quarter has been super stressful for me, so I'm looking for some fun or low stress CS electives to take for future quarters. What classes and professors would y'all recommend? I'm doing a General Specialization btw. So far, I plan on taking 145 for one of them. Embedded SW sounds really interesting and the class is low stress from what I've heard.
+
+Since you're doing General Specialization you can't take advantage of the very chill upper-div INF classes.....so probably CS121, CS163, CS145, CS122, CS 132 with Levorato, possibly CS162-CS164-CS165 with Goodrich, I know he made CS162 and CS165 pretty chill when I was there...but that's pretty much it.
+
+Thank you for the recommendations! If it means getting more chill classes, I might just declare my specialization as informations aha. But I'm kinda confused. I didn't know the general specialization didn't allow you to take the upper div INF classes. They're just restricted to the Informations specialization? Also which upper div INF classes would you recommend?
+
+You can take INF classes as General Spec. but they won't count towards your 11 required courses. INF 115 with Jones was amazing, really enjoyed it, pretty useful class, super chill. INF 131 was also easy A+, but still useful..made me look at things from a different perspective. I know INF121 is easy-ish but a lot of writing...so is INF113 with Navarro...think of the INF43 writing assignment on roids.
+
+A majority of the INF classes are chill, more focused on group work, practical work, and writing.
+
+I believe 117 is a full fledged project course without giving credit as one so you may want to stay away from that (or not, if you want something that can go on your resume). edit: they made 117 count as a cs project course so nevermind.
+
+I was information specialization since it was the easier one to fulfil the requirements for since you have a wide range of frequently offered course to choose from. I believe the systems and software specialization is super easy to meet the requirements for (its literally 3 courses thats it and you're free to take anything you want after that), but you do have to take a medium difficulty or harder class like cs131, cs142, etc.
+
+Following! Personally I'm planning on specializing in systems and software (only 3 core CS classes) because I feel like that'll give me the flexibility between CS and INF upper divs to hopefully graduate early. But i got no idea about what INF classes would be good to take
+
+I agree 145 is pretty low stress. Im currently taking 122a and its not bad. Not a lot of complex coding, but alot more with understanding data bases and sql. Also ICS 161 was pretty fun. Mostly learning game engines using Unity.
+
+Thank you! I'll take 122a when a better professors teaching it. I read some pretty bad reviews on the prof teaching it next quarter 😅 and I want to take ICS161 next quarter. I'm really excited about it, but I'm worried that I won't get the class since it's restricted to CGS seniors. Im a Junior CS major. I really hope I'll get the class when restrictions are lifted.
+
+I was able to take ics161 my second year but i got into the class like during week 1 when restrictions lifted so it’s definitely possible. 122a with Carey is definitely a good choice but if the professor is bad next quarter then definitely wait haha

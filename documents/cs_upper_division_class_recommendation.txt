@@ -1,0 +1,22 @@
+Hi, I'm planning to choose my CS specialization to be general so that I can take all kinds of upper CS classes. Does anyone have any recommendation on classes fall in this range: COMPSCI 103-139, except COMPSCI 161? Thank you🙏!!!
+
+CS 121, CS 163, CS 166, CS 178 have solid professors and are pretty good classes
+
+Is cs 178 about coding? I fulfilled all the prerequisites now for 178 but I’m concerning its difficulty as my first upper division class.
+
+You need to be able to code in Python for CS 178. But it's mostly theoretical, with one assignment where you implement gradient descent
+
+CS 122A (Intro Databases)- super useful, important for almost all fields in CS so should be a must-take. best profs are carey (retiring next spring) and wongma. Mostly theory/design until week 7, but all important.
+CS 121(Information Retrieval) - very interesting and useful class where you build a search engine from scratch. all profs solid, I personally like martins most. Highly recommend.
+CS 178 (ML and Datamining)- great if you want a solid foundation in machine learning. nice curve, hard content and tests, homework isnt too bad. Overall good, would recommend, especially if you are interested in ML. Profs solid, I like mandt.
+CS 190 (medical DL) - very easy. nice way to get into research, cool content.
+Now for stuff I plan to take:
+CS 143A (Operating Systems) and CS 142A (Compilers) - idealy with harder prof. often considered a must-take CS course.
+CS 122D (Beyond SQL Databases) - Nonrelational databases. Very useful. Will probably only be taught one more time (next spring) since carey is retiring.
+CS 162 (computation theory) - if your interested in theory
+CS 166 (quantum computing) - if you want a crazy class
+Stuff i heard is good:
+CS 175 (project in AI) - solid AI project class
+Stuff to avoid, maybe:
+CS 132 (Networks) (and honestly the whole 13X series) - apparently taught/structured poorly. painful. unfortunate since course topics are very useful/important, so maybe you will want to take anyway.
+I've heard similar issues with the CS 11X series, but theres more variance afaik. theres def more, if theres a class you wanna know about i proly have info on it so you can dm me or ask below.

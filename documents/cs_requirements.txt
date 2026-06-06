@@ -1,0 +1,180 @@
+Requirements for the B.S. in Computer Science
+All students must meet the University Requirements.
+Major Requirements
+Lower-division
+A. Select one of the following series:
+I&C SCI 31- 32- 33
+Introduction to Programming
+and Programming with Software Libraries
+and Intermediate Programming
+or
+I&C SCI H32- 33
+Python Programming and Libraries (Accelerated)
+and Intermediate Programming
+B. Complete:
+I&C SCI 45C	Programming in C/C++ as a Second Language
+I&C SCI 46	Data Structure Implementation and Analysis
+I&C SCI 51	Introductory Computer Organization
+I&C SCI 53	Principles in System Design
+IN4MATX 43	Introduction to Software Engineering
+MATH 2A- 2B	Single-Variable Calculus I
+and Single-Variable Calculus II
+I&C SCI 6B	Boolean Logic and Discrete Structures
+I&C SCI 6D	Discrete Mathematics for Computer Science
+I&C SCI 6N	Computational Linear Algebra
+or MATH 3A	Introduction to Linear Algebra
+STATS 67	Introduction to Probability and Statistics for Computer Science
+C. Two courses approved for General Education category II except those offered by the School of Engineering, the School of Information and Computer Sciences, the Department of Economics, or the Department of Mathematics. University Studies courses can be used with the approval of the Computer Sciences Vice Chair for Undergraduate Studies.
+Upper-division
+A. Core
+COMPSCI 161	Design and Analysis of Algorithms
+I&C SCI 139W	Critical Writing on Information Technology
+B. Upper-division electives: Select 11 upper-division courses from the list below. Sections B-1 and B-2 must be completed as part of the 11 upper-division electives.
+COMPSCI 103–160, 162-189
+IN4MATX 113
+Requirements Analysis and Engineering
+IN4MATX 115
+Software Testing, Analysis, and Quality Assurance
+IN4MATX 117
+Project in Software System Design
+IN4MATX 121
+Software Design: Applications
+IN4MATX 122
+Software Design: Structure and Implementation
+IN4MATX 124
+Internet Applications Engineering
+IN4MATX 131
+Human Computer Interaction
+IN4MATX 133
+User Interaction Software
+IN4MATX 134
+Advanced Topics in User Interface Software
+B-1. Project Courses: Choose at least two projects courses from the following list:
+COMPSCI 113
+Computer Game Development
+COMPSCI 114
+Projects in Advanced 3D Computer Graphics
+COMPSCI 117
+Project in Computer Vision
+COMPSCI 118
+Introduction to Virtual Reality
+COMPSCI 122B
+Project in Databases and Web Applications
+COMPSCI 122C
+Principles of Data Management
+COMPSCI 122D
+Beyond SQL Data Management
+COMPSCI 125
+Next Generation Search Systems
+COMPSCI 133
+Advanced Computer Networks
+COMPSCI 142B
+Project in Compilers and Interpreters
+COMPSCI 143B
+Project in Operating System Organization
+COMPSCI 145
+Embedded Software
+COMPSCI 147
+Internet of Things (IoT) Software and Systems
+COMPSCI 154
+Computer Design Laboratory
+COMPSCI 165
+Project in Algorithms and Data Structures
+COMPSCI 175
+Project in Artificial Intelligence
+COMPSCI 180A
+Project in Computer Science 1
+COMPSCI 180B
+Project in Computer Science 1
+COMPSCI 189
+Project in Bioinformatics
+IN4MATX 117
+Project in Software System Design
+IN4MATX 134
+Advanced Topics in User Interface Software
+B-2. Specialization: Select and satisfy the requirements for one of the specializations below. (Note: Students may not pursue more than one specialization.)
+Some of the specializations include recommended electives. These are courses related to the specialization and intended to help students choose courses to take toward their upper-division elective requirement.
+Algorithms: Four courses from the following list:
+COMPSCI 162	Formal Languages and Automata
+COMPSCI 163	Graph Algorithms
+COMPSCI 164	Computational Geometry
+COMPSCI 165	Project in Algorithms and Data Structures
+COMPSCI 166	Quantum Computation and Information
+COMPSCI 167	Introduction to Applied Cryptography
+COMPSCI 169	Introduction to Optimization
+Architecture and Embedded Systems: four courses from the following list:
+COMPSCI 145	Embedded Software
+COMPSCI 147	Internet of Things (IoT) Software and Systems
+COMPSCI 151	Digital Logic Design
+COMPSCI 152	Computer Architecture
+COMPSCI 154	Computer Design Laboratory
+Bioinformatics:
+COMPSCI 184A	Artificial Intelligence in Biology and Medicine
+and at least two courses from:
+COMPSCI 172B	Neural Networks and Deep Learning
+COMPSCI 172C	Artificial Intelligence Frontiers: Technical, Ethical, and Societal
+COMPSCI 178	Machine Learning and Data-Mining
+COMPSCI 184C	Computational Systems Biology
+COMPSCI 189	Project in Bioinformatics
+General CS track - 11 courses from the following list:
+COMPSCI 103-189, except COMPSCI 161
+Information
+COMPSCI 121	Information Retrieval
+COMPSCI 122A	Introduction to Data Management
+COMPSCI 178	Machine Learning and Data-Mining
+and four courses from:
+I&C SCI 45J	Programming in Java as a Second Language
+COMPSCI 122B	Project in Databases and Web Applications
+COMPSCI 122C	Principles of Data Management
+COMPSCI 122D	Beyond SQL Data Management
+COMPSCI 125	Next Generation Search Systems
+COMPSCI 132	Computer Networks
+COMPSCI 134	Computer and Network Security
+COMPSCI 141	Concepts in Programming Languages
+COMPSCI 142A	Compilers and Interpreters
+COMPSCI 143A	Principles of Operating Systems
+COMPSCI 163	Graph Algorithms
+COMPSCI 165	Project in Algorithms and Data Structures
+COMPSCI 167	Introduction to Applied Cryptography
+COMPSCI 179	Algorithms for Probabilistic and Deterministic Graphical Models
+at least one of which must be:
+COMPSCI 122B	Project in Databases and Web Applications
+COMPSCI 122C	Principles of Data Management
+COMPSCI 122D	Beyond SQL Data Management
+COMPSCI 125	Next Generation Search Systems
+COMPSCI 179	Algorithms for Probabilistic and Deterministic Graphical Models
+Intelligent Systems
+COMPSCI 171	Introduction to Artificial Intelligence
+COMPSCI 175	Project in Artificial Intelligence
+COMPSCI 178	Machine Learning and Data-Mining
+and at least three courses from:
+COMPSCI 116	Computational Photography and Vision
+COMPSCI 121	Information Retrieval
+COMPSCI 125	Next Generation Search Systems
+COMPSCI 162	Formal Languages and Automata
+COMPSCI 163	Graph Algorithms
+COMPSCI 164	Computational Geometry
+COMPSCI 169	Introduction to Optimization
+COMPSCI 177	Applications of Probability in Computer Science
+COMPSCI 179	Algorithms for Probabilistic and Deterministic Graphical Models
+Networked Systems
+COMPSCI 132	Computer Networks
+COMPSCI 133	Advanced Computer Networks
+COMPSCI 134	Computer and Network Security
+COMPSCI 143A	Principles of Operating Systems
+Systems and Software: three courses from the following list:
+COMPSCI 131	Parallel and Distributed Computing
+COMPSCI 141	Concepts in Programming Languages
+COMPSCI 142A	Compilers and Interpreters
+COMPSCI 142B	Project in Compilers and Interpreters
+COMPSCI 143A	Principles of Operating Systems
+COMPSCI 143B	Project in Operating System Organization
+Visual Computing: four courses from the following list:
+COMPSCI 111	Digital Image Processing
+COMPSCI 112	Computer Graphics
+COMPSCI 114	Projects in Advanced 3D Computer Graphics
+COMPSCI 116	Computational Photography and Vision
+COMPSCI 117	Project in Computer Vision
+COMPSCI 118	Introduction to Virtual Reality
+1
+Students must complete and pass both COMPSCI 180A and COMPSCI 180B for course credit.

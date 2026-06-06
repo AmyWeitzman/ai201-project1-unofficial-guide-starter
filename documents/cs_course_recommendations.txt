@@ -1,0 +1,13 @@
+Any cs course recommendations from this list?
+Course Code	Course Title
+COMPSCI 116	Computational Photography and Vision
+COMPSCI 121	Information Retrieval
+COMPSCI 125	Next Generation Search Systems
+COMPSCI 162	Formal Languages and Automata
+COMPSCI 163	Graph Algorithms
+COMPSCI 164	Computational Geometry and Geometric Modeling
+COMPSCI 169	Introduction to Optimization
+COMPSCI 177	Applications of Probability in Computer Science
+COMPSCI 179	Algorithms for Probabilistic and Deterministic Graphical Models
+
+121 is three group projects — workload depends on group size and how well you work together but it shouldn’t be anything outlandish. 162 shindler is pretty much just studying with some 15 minute warm ups before lectures — very light, though it might take you some time to nail down the course concepts (also proof heavy).

@@ -1,0 +1,444 @@
+			UC Irvine Office of the Registrar
+		      Schedule of Classes    Friday, June 5, 2026
+
+Search Criteria:
+    Department: IN4MATX
+    Exclude cancelled courses
+
+
+Fall Quarter, 2026      Registration for term ends on Tuesday, September 15, 2026
+
+
+   #########################################################################
+   ###                                                                   ###
+   ###      Donald Bren School of Information and Computer Sciences      ###
+   ###                                                                   ###
+   ###  For ICS course updates, visit the ICS Enrollment Restrictions    ###
+   ###  webpage:                                                         ###
+   ###                                                                   ###
+   ###  Undergraduate courses:                                           ###
+   ###  http://ics.uci.edu/course-enrollment-restrictions/               ###
+   ###                                                                   ###
+   ###  Graduate courses:                                                ###
+   ###  http://ics.uci.edu/academics/graduate-academic-advising/course-updates/ ###
+   ###                                                                   ###
+   ###  It is incumbent on the student to check the restriction status   ###
+   ###  and seating availability of a course before adding or attempting ###
+   ###  to add or change their discussion/lab section enrollment.        ###
+   ###                                                                   ###
+   ###  COURSE PREREQUISITES ARE STRICTLY ENFORCED.  The School of ICS   ###
+   ###  WILL DROP students who do not meet the required course           ###
+   ###  prerequisite(s). These drops may take place at any time after    ###
+   ###  grades are posted until Friday of Week 2. Note that meeting the  ###
+   ###  prerequisites for a course does not guarantee a seat in that     ###
+   ###  course.                                                          ###
+   ###                                                                   ###
+   ###  WAITLIST:  Students on the waitlist for an ICS course should be  ###
+   ###  in communication with that course's instructor to arrange for    ###
+   ###  access to course materials and submission of any assignments     ###
+   ###  while on the waitlist. Being on the waitlist or completing       ###
+   ###  coursework DOES NOT guarantee a seat in the course.              ###
+   ###                                                                   ###
+   ###  DEADLINES TO ADD, DROP, OR CHANGE  GRADE OPTION FOR ALL SCHOOL   ###
+   ###  OF ICS COURSES                                                   ###
+   ###                                                                   ###
+   ###  5:00pm on Friday of Week 1:  Courses with an early deadline to   ###
+   ###  add/drop/change grade option are noted with a comment in the     ###
+   ###  Schedule of Classes. Permission from the instructor and an       ###
+   ###  authorization code will be required after Week 1 to add or drop  ###
+   ###  these courses.                                                   ###
+   ###                                                                   ###
+   ###  5:00pm on Friday of Week 2: The deadline to add/drop/change      ###
+   ###  grade option in WebReg is 5:00pm on Friday, October 9, 2026.     ###
+   ###  The Bren School of ICS strictly adheres to and enforces this     ###
+   ###  deadline for undergraduate and graduate courses.                 ###
+   ###                                                                   ###
+   ###  ADDING, DROPPING, OR CHANGING GRADE OPTION AFTER WEEK 2:         ###
+   ###  Students must submit an Enrollment Exception request online      ###
+   ###  through StudentAccess.  Exception requests will only be approved ###
+   ###  for extenuating and documented circumstances outside of the      ###
+   ###  student's control. For more information on ICS policies:         ###
+   ###  http://ics.uci.edu/academics/undergraduate-programs/majors-minors/undergraduate-student-policies/ ###
+   ###                                                                   ###
+   ###  GRADUATE ENROLLMENT IN UNDERGRADUATE COURSES: Graduate students  ###
+   ###  seeking to enroll in an ICS undergraduate level course must      ###
+   ###  submit a request to ICS Undergraduate Students Affairs. Priority ###
+   ###  for seating in undergraduate courses is given first to           ###
+   ###  undergraduate students. Unauthorized students found enrolled in  ###
+   ###  undergraduate courses WILL BE DROPPED by ICS Student Affairs.    ###
+   ###                                                                   ###
+   ###  UNDERGRADUATE ENROLLMENT IN GRADUATE COURSES: Undergraduate      ###
+   ###  students seeking to enroll in an ICS graduate level course must  ###
+   ###  obtain a written permission from the instructor before           ###
+   ###  submitting a request for an authorization to ICS Graduate        ###
+   ###  Student Affairs. Priority for seating in graduate courses is     ###
+   ###  given first to graduate students. Graduate level courses taken   ###
+   ###  as an undergraduate will not count toward a graduate degree      ###
+   ###  program.                                                         ###
+   ###                                                                   ###
+   ###  DCE CONCURRENT ENROLLMENT: Only courses that show as "OPEN" in   ###
+   ###  the Schedule of Classes may be requested. Approval of requests   ###
+   ###  is contingent on seating availability and prerequisite           ###
+   ###  eligibility. For more information:                               ###
+   ###  http://ics.uci.edu/academics/undergraduate-academic-advising/concurrent-enrollment/ ###
+   ###                                                                   ###
+   #########################################################################
+
+       _________________________________________________________________
+
+                                 Informatics
+
+        RESTRICTIONS: Most IN4MATX courses will be initially restricted
+        to majors in the Donald Bren School of Information and Computer
+        Sciences ONLY. Some courses will be additionally restricted to
+        specific majors or level(s) of standing. For restriction details
+        and timeline: 
+        http://ics.uci.edu/course-enrollment-restrictions/
+
+        WAITLIST: Students on the waitlist for an ICS course should be
+        in communication with that course's instructor to arrange for
+        access to course materials and submission of any assignments
+        while on the waitlist. Being on the waitlist or completing
+        coursework DOES NOT guarantee a seat in that course.
+
+        DISCUSSIONS & LABS: Discussion and lab sections begin meeting
+        AFTER the first lecture. Always check for messages from your
+        instructors before the start of instruction.
+
+        Some lab sections are scheduled in laptop instructional labs ICS
+        364A, ICS2 162, or ICS2 170. Students enrolled in these labs are
+        required to bring a personal laptop to class meetings.
+
+        B or X Restricted Courses: Courses with a B or X restriction
+        require an authorization code from the instructor to enroll.
+       _________________________________________________________________
+
+In4matx  131       HUMAN CMPTR INTRACT
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36350 LEC A   4    DENENBERG, D.     In-Person         TuTh 3:30- 4:50p EH 1200                    Tue, Dec 8, 4:00-6:00pm     325     182   0 327   60 A       OPEN
+                       STAFF                                                                                                             
+    36351 DIS A1  0    STAFF             In-Person         F 9:00- 9:50  ALP 1700                            65      18   0  17   12 A       OPEN
+                       DENENBERG, D.                                                                                                     
+    36352 DIS A2  0    STAFF             In-Person         F10:00-10:50  ALP 1700                            65      29   0  29   12 A       OPEN
+                       DENENBERG, D.                                                                                                     
+    36353 DIS A3  0    STAFF             In-Person         F11:00-11:50  SE2 1304                            65      44   0  40   12 A       OPEN
+                       DENENBERG, D.                                                                                                     
+    36354 DIS A4  0    STAFF             In-Person         F12:00-12:50p SE2 1304                            65      38   0  39   12 A       OPEN
+                       DENENBERG, D.                                                                                                     
+    36355 DIS A5  0    STAFF             In-Person         F 1:00- 1:50p SH 128                              65      53   0  49   12 A       NewOnly
+                       DENENBERG, D.                                                                                                     
+
+In4matx  133       USER INTERACTION SW
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36360 LEC A   4    STAFF             In-Person         TuTh 5:00- 6:20p HSLH 100A                  Thu, Dec 10, 4:00-6:00pm     230     117   0 206    0 A       OPEN
+    36361 DIS A1  0    STAFF             In-Person         F 3:00- 3:50p EH 1200                            230     117   0 125    0 A       OPEN
+                       STAFF                                                                                                             
+                       STAFF                                                                                                             
+
+In4matx  151       PROJECT MANAGEMENT
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36380 LEC A   4    ROBERTS, S.       In-Person         MW 3:30- 4:50p HH 178                     Mon, Dec 7, 4:00-6:00pm     138     138  12 205    0 A       Waitl
+                       STAFF                                                                                                             
+
+In4matx  161       SOC ANLYS OF CMPTNG
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36390 LEC A   4    CROOKS, R.        In-Person         TuTh12:30- 1:50p RH 104                     Fri, Dec 11, 10:30-12:30pm     138     117   4 202   21 A       NewOnly
+    36391 DIS A1  0    STAFF             In-Person         F 9:00- 9:50  SSTR 103                            46      39   1  40    7 A       NewOnly
+                       STAFF                                                                                                             
+                       CROOKS, R.                                                                                                        
+    36392 DIS A2  0    STAFF             In-Person         F 2:00- 2:50p SSTR 103                            46      39   8  50    7 A       NewOnly
+                       STAFF                                                                                                             
+                       CROOKS, R.                                                                                                        
+    36393 DIS A3  0    STAFF             In-Person         F 4:00- 4:50p SSTR 103                            46      39   1  39    7 A       NewOnly
+                       STAFF                                                                                                             
+                       CROOKS, R.                                                                                                        
+
+In4matx  171       INTRO TO HEALTH INF
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36400 LEC A   4    LYU, T.           In-Person         MW 6:30- 7:50p PCB 1100                   Fri, Dec 11, 7:00-9:00pm     246  91/169   0 168    0 A&J     OPEN
+                       STAFF                                                                                                             
+                       STAFF                                                                                                             
+      ~ Same as 81155 (PubHlth 105, Lec A).
+
+In4matx  191A      SENIOR DESIGN PROJ
+      ~ Enrollment priority is reserved for INF and SE seniors with a Received
+      ~    W27 Graduation Application on file. For more information:
+      ~    http://ics.uci.edu/academics/undergrad/enrollment-guidelines-in4matx-191a/
+      ~ In4matx 191A will open to all INF and SE seniors at 12:00pm on
+      ~    9/18/2026. The course will then be restricted to add/drop by
+      ~    authorization code only after 5:00pm on Friday, October 2, 2026 .
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36440 LEC A   4    BIETZ, M.         In-Person         TuTh11:00-12:20p DBH 1427                   Tue, Dec 8, 10:30-12:30pm       0      31 n/a  83    0 I&L     FULL
+    36441 DIS A1  0    STAFF             In-Person         F 3:30- 4:50p DBH 1427                             0      31 n/a  33    0 I&L     FULL
+                       BIETZ, M.                                                                                                         
+
+In4matx  H198      HONORS RESEARCH
+      ~ In4matx H198s are restricted to students in the ICS or Campuswide
+      ~    Honors Collegium. Contact the instructor to obtain an authorization
+      ~    code to enroll.
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36451 SEM 1   4    AGAPIE, E.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36452 SEM 2   4    AHMED, I.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36453 SEM 3   4    BIETZ, M.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36454 SEM 4   4    BLACK, R.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36455 SEM 5   4    BRANHAM, S.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36456 SEM 6   4    CHEN, Y.          In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36457 SEM 7   4    CROOKS, R.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36458 SEM 8   4    DENENBERG, D.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36459 SEM 9   4    DOURISH, J.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36460 SEM 10  4    EPSTEIN, D.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36461 SEM 11  4    GARCIA, J.        In-Person         *TBA*     *TBA*                      TBA      30       1 n/a   1    0 B&N     OPEN
+    36462 SEM 12  4    HAYES, G.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36463 SEM 13  4    ITO, M.           In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36464 SEM 14  4    JONES, J.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36465 SEM 15  4    KRONE MARTINS, A. In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36466 SEM 16  4    LOPES, C.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36467 SEM 17  4    MALEK, S.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36468 SEM 18  4    MARK, G.          In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36469 SEM 19  4    MAZMANIAN, M.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36470 SEM 20  4    MOSHIRPOUR, M.    In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36471 SEM 21  4    NAVARRO, E.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36472 SEM 22  4    PEPPLER, K.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36473 SEM 23  4    PIPER, A.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36474 SEM 24  4    REDDY, M.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36475 SEM 25  4    REDMILES, D.      In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36476 SEM 26  4    SALEN, K.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36477 SEM 27  4    SQUIRE, K.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36478 SEM 28  4    STEINKUEHLER, C.  In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36479 SEM 29  4    TAYLOR, R.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36480 SEM 30  4    TOMLINSON, W.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36481 SEM 31  4    TRAMMELL, A.      In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36482 SEM 32  4    WALDRON, E.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36483 SEM 33  4    VAN DER HOEK, A.  In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36484 SEM 34  4    YOUNG, S.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36485 SEM 35  4    ZHENG, K.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36486 SEM 36  4    ZIMMERMANN, T.    In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36487 SEM 37  4    ZIV, H.           In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36488 SEM 38  4    WARSCHAUER, M.    In-Person         *TBA*     *TBA*                      TBA      30       1 n/a   1    0 B&N     OPEN
+    36489 SEM 39  4    STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36490 SEM 40  4    STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+
+In4matx  199       INDIVIDUAL STUDY
+      ~ To enroll in IN4MATX 199, obtain an authorization code from the
+      ~    instructor.
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36501 TUT 1   2-5  AGAPIE, E.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36502 TUT 2   2-5  AHMED, I.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36503 TUT 3   2-5  BIETZ, M.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36504 TUT 4   2-5  BLACK, R.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36505 TUT 5   2-5  BRANHAM, S.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36506 TUT 6   2-5  CHEN, Y.          In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36507 TUT 7   2-5  CROOKS, R.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36508 TUT 8   2-5  DENENBERG, D.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36509 TUT 9   2-5  DOURISH, J.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36510 TUT 10  2-5  EPSTEIN, D.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36511 TUT 11  2-5  GARCIA, J.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36512 TUT 12  2-5  HAYES, G.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36513 TUT 13  2-5  ITO, M.           In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36514 TUT 14  2-5  JONES, J.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36515 TUT 15  2-5  KRONE MARTINS, A. In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36516 TUT 16  2-5  LOPES, C.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36517 TUT 17  2-5  MALEK, S.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36518 TUT 18  2-5  MARK, G.          In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36519 TUT 19  2-5  MAZMANIAN, M.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36520 TUT 20  2-5  MOSHIRPOUR, M.    In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36521 TUT 21  2-5  NAVARRO, E.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36522 TUT 22  2-5  PEPPLER, K.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36523 TUT 23  2-5  PIPER, A.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36524 TUT 24  2-5  REDDY, M.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36525 TUT 25  2-5  REDMILES, D.      In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36526 TUT 26  2-5  SALEN, K.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36527 TUT 27  2-5  SQUIRE, K.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36528 TUT 28  2-5  STEINKUEHLER, C.  In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36529 TUT 29  2-5  TAYLOR, R.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36530 TUT 30  2-5  TOMLINSON, W.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36531 TUT 31  2-5  TRAMMELL, A.      In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36532 TUT 32  2-5  VAN DER HOEK, A.  In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36533 TUT 33  2-5  YOUNG, S.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36534 TUT 34  2-5  ZHENG, K.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36535 TUT 35  2-5  WALDRON, E.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36536 TUT 36  2-5  ZIMMERMANN, T.    In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36537 TUT 37  2-5  ZIV, H.           In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36538 TUT 38  2-5  WARSCHAUER, M.    In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   1    0 B&N     OPEN
+    36539 TUT 39  2-5  STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+    36540 TUT 40  2-5  STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&N     OPEN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In4matx course numbers 200 - 299:
+  ~ IN4MATX graduate courses will initially be restricted
+  ~     to majors within the Donald Bren School of
+  ~     Information and Computer Sciences ONLY. For
+  ~     restriction details and timeline:  
+  ~     http://ics.uci.edu/academics/graduate-academic-advising/course-updates/
+  ~ The Add/Drop Deadline for all IN4MATX graduate
+  ~     courses is 5:00pm, October 9, 2026. This deadline
+  ~     is strictly enforced.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In4matx  201       RES METH FOR IN4MTX
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36590 LEC A   4    BRANHAM, S.       In-Person         TuTh 3:30- 4:50p PCB 1200                   Tue, Dec 8, 4:00-6:00pm      30       1   0   1    0 K&L     OPEN
+
+In4matx  209S      SEMINAR INFORMATICS
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36600 LEC A   2    DOURISH, J.       In-Person         F 1:00- 1:50p *TBA*                      TBA      40       0   0   0    0 K&L     OPEN
+
+In4matx  244       INTR EMBED UBIQ SYS
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36610 LEC A   4    BOZORGZADEH, E.   In-Person         MW11:00-12:20p DBH 1300                   Fri, Dec 11, 8:00-10:00am      50     0/1   0   0    0 K&L     OPEN
+      ~ Same as 34680 (CompSci 244, Lec A).
+
+In4matx  261       SOC ANLY OF CMPTING
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36620 LEC A   4    CROOKS, R.        In-Person         TuTh 2:00- 3:20p PCB 1200                   Thu, Dec 10, 1:30-3:30pm      30       3   0   5    0 K&L     OPEN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In4matx course numbers 280 - 282:
+  ~ In4matx 280, 281, and 282 are restricted to students
+  ~     in the MHCID program ONLY.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In4matx  280       OVERVIEW OF HCID
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36650 LEC A   4    BIETZ, M.         In-Person         *TBA*     *TBA*                      TBA      50       0   0   1    0 K&L     OPEN
+                       STAFF                                                                                                             
+                       STAFF                                                                                                             
+
+In4matx  281       USER NEEDS ANALYSIS
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36655 LEC A   4    MAZMANIAN, M.     Online            *TBA*     ON LINE                    TBA      50       0   0   1    0 K&L     OPEN
+                       STAFF                                                                                                             
+                       STAFF                                                                                                             
+
+In4matx  282       DESIGN & PROTOTYPE
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36660 LEC A   4    STAFF             Online            *TBA*     ON LINE                    TBA      50       0   0   2    0 K&L     OPEN
+                       STAFF                                                                                                             
+
+In4matx  290       RESEARCH SEMINAR
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36701 SEM 1   2    AGAPIE, E.        In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36702 SEM 2   2    BIETZ, M.         In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36703 SEM 3   2    BLACK, R.         In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36704 SEM 4   2    BRANHAM, S.       In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36705 SEM 5   2    CHEN, Y.          In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 B&S     OPEN
+    36706 SEM 6   2    CROOKS, R.        In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36707 SEM 7   2    DENENBERG, D.     In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36708 SEM 8   2    DOURISH, J.       In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36709 SEM 9   2    EPSTEIN, D.       In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36710 SEM 10  2    HAYES, G.         In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36711 SEM 11  2    ITO, M.           In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36712 SEM 12  2    MARK, G.          In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36713 SEM 13  2    MAZMANIAN, M.     In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36714 SEM 14  2    PEPPLER, K.       In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36715 SEM 15  2    PIPER, A.         In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36716 SEM 16  2    REDDY, M.         In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36717 SEM 17  2    SALEN, K.         In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36718 SEM 18  2    SQUIRE, K.        In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36719 SEM 19  2    STEINKUEHLER, C.  In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36720 SEM 20  2    TAYLOR, R.        In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36721 SEM 21  2    TOMLINSON, W.     In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36722 SEM 22  2    TRAMMELL, A.      In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36723 SEM 23  2    VAN DER HOEK, A.  In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36724 SEM 24  2    YOUNG, S.         In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36725 SEM 25  2    ZHENG, K.         In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36726 SEM 26  2    ZIMMERMANN, T.    In-Person         *TBA*     *TBA*                      TBA      25       0   0   0    0 K&S     OPEN
+    36727 SEM 27  2    RUBERG, B.        In-Person         *TBA*     *TBA*                      TBA      20       0   0   0    0 K&S     OPEN
+    36728 SEM 28  2    WARSCHAUER, M.    In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36729 SEM 29  2    STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36730 SEM 30  2    STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36731 SEM 31  2    STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+    36732 SEM 32  2    STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0   0   0    0 K&S     OPEN
+
+In4matx  298       THESIS SUPERVISION
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36741 RES 1   2-12 AGAPIE, E.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36742 RES 2   2-12 BIETZ, M.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36743 RES 3   2-12 BLACK, R.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36744 RES 4   2-12 BRANHAM, S.       In-Person         *TBA*     *TBA*                      TBA      30       1 n/a   1    0 K&B     OPEN
+    36745 RES 5   2-12 CHEN, Y.          In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36746 RES 6   2-12 CROOKS, R.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36747 RES 7   2-12 DENENBERG, D.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36748 RES 8   2-12 DOURISH, J.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36749 RES 9   2-12 EPSTEIN, D.       In-Person         *TBA*     *TBA*                      TBA       5       0 n/a   0    0 K&B     OPEN
+    36750 RES 10  2-12 HAYES, G.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36751 RES 11  2-12 ITO, M.           In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36752 RES 12  2-12 MARK, G.          In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36753 RES 13  2-12 MAZMANIAN, M.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36754 RES 14  2-12 PEPPLER, K.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36755 RES 15  2-12 PIPER, A.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36756 RES 16  2-12 REDDY, M.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36757 RES 17  2-12 SALEN, K.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36758 RES 18  2-12 SQUIRE, K.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36759 RES 19  2-12 STEINKUEHLER, C.  In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36760 RES 20  2-12 TAYLOR, R.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36761 RES 21  2-12 TOMLINSON, W.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36762 RES 22  2-12 TRAMMELL, A.      In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36763 RES 23  2-12 VAN DER HOEK, A.  In-Person         *TBA*     *TBA*                      TBA      30       1 n/a   1    0 K&B     OPEN
+    36764 RES 24  2-12 YOUNG, S.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36765 RES 25  2-12 ZHENG, K.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36766 RES 26  2-12 ZIMMERMANN, T.    In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36767 RES 27  2-12 ZIV, H.           In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36768 RES 28  2-12 RUBERG, B.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36769 RES 29  2-12 WARSCHAUER, M.    In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36770 RES 30  2-12 STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36771 RES 31  2-12 STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36772 RES 32  2-12 STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+
+In4matx  299       INDIVIDUAL STUDY
+    CCode Typ Sec Unt  Instructor        Modality          Time      Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36781 TUT 1   2-12 AGAPIE, E.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36782 TUT 2   2-12 BIETZ, M.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36783 TUT 3   2-12 BLACK, R.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36784 TUT 4   2-12 BRANHAM, S.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36785 TUT 5   2-12 CHEN, Y.          In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36786 TUT 6   2-12 CROOKS, R.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36787 TUT 7   2-12 DENENBERG, D.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36788 TUT 8   2-12 DOURISH, J.       In-Person         *TBA*     *TBA*                      TBA      30       1 n/a   1    0 K&B     OPEN
+    36789 TUT 9   2-12 EPSTEIN, D.       In-Person         *TBA*     *TBA*                      TBA       5       0 n/a   0    0 K&B     OPEN
+    36790 TUT 10  2-12 HAYES, G.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36791 TUT 11  2-12 ITO, M.           In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36792 TUT 12  2-12 MARK, G.          In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36793 TUT 13  2-12 MAZMANIAN, M.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36794 TUT 14  2-12 PEPPLER, K.       In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36795 TUT 15  2-12 PIPER, A.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36796 TUT 16  2-12 REDDY, M.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36797 TUT 17  2-12 SALEN, K.         In-Person         *TBA*     *TBA*                      TBA      30       3 n/a   3    0 K&B     OPEN
+    36798 TUT 18  2-12 SQUIRE, K.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36799 TUT 19  2-12 STEINKUEHLER, C.  In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36800 TUT 20  2-12 TAYLOR, R.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36801 TUT 21  2-12 TOMLINSON, W.     In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36802 TUT 22  2-12 TRAMMELL, A.      In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36803 TUT 23  2-12 VAN DER HOEK, A.  In-Person         *TBA*     *TBA*                      TBA      30       1 n/a   1    0 K&B     OPEN
+    36804 TUT 24  2-12 YOUNG, S.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36805 TUT 25  2-12 ZHENG, K.         In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36806 TUT 26  2-12 ZIMMERMANN, T.    In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36807 TUT 27  2-12 ZIV, H.           In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36808 TUT 28  2-12 WARSCHAUER, M.    In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36809 TUT 29  2-12 RUBERG, B.        In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36810 TUT 30  2-12 STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36811 TUT 31  2-12 STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+    36812 TUT 32  2-12 STAFF             In-Person         *TBA*     *TBA*                      TBA      30       0 n/a   0    0 K&B     OPEN
+
+
+*** Total Classes Displayed: 199
+    Values in the "Enr" column like "91/169" show "section / joint" enrollment
+	totals for cross-listed courses.
+    The column headings above are defined at:
+	    https://www.reg.uci.edu/help/WebSoc-Columns.shtml
+    Course textbooks link:
+	    https://uci.bncollege.com
+    Building Abbreviations:
+	    https://www.reg.uci.edu/uci/rooms
+    Campus map:
+	    https://www.uci.edu/campusmap
+
+Restriction Codes from the 'Rst' column above:
+    A: Prerequisite required
+    B: Authorization required
+    I: Seniors only
+    J: Upper-division only
+    K: Graduate only
+    L: Major only
+    N: School major only
+    S: Satisfactory/unsatisfactory only

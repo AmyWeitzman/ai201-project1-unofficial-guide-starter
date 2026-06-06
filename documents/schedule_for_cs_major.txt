@@ -1,0 +1,95 @@
+which of the two schedules would be a better choice in terms of workload management or anything else? I've already completed the other lower-divs and almost all my ge's too.
+
+I want Winter 22-23 to be as easy as possible since I will have an outside commitment requiring 20-30 (if not more) hours per week, and will be out of the city for ~3 entire weekends as well.
+
+Lastly, does it make sense to skip 45C and 46 and go straight to 51 (bottom schedule)? Will this make Fall 2022 ridiculously hard?
+
+Year,2021-2022,2021-2022,2021-2022,2021-2022,2022-2023,2022-2023,2022-2023
+Term,Fall,Winter,Spring,Summer,Fall,Winter,Spring
+Courses,HUMAN 1A,HUMAN 1B,HUMAN 1C,MATH 3A,ICS 46,ICS 51,ICS 53
+,HUMAN H1AS,HUMAN H1BS,HUMAN H1CS,,IN4MATX 43,ANTHRO 2A,ICS 53L
+,ICS 32A,ICS 33,ICS 45C,,(some ge),ICS 139W,<6 more units needed>
+,ICS 6B,ICS 6D,STATS 67,,,,
+Units,Not specified,Not specified,Not specified,4 units,12 units,14 units,12 units
+
+Here is a clean, structured Markdown representation of the academic schedule from image_38bb84.png. It preserves the exact layout, terms, course codes, and unit counts so an LLM can easily interpret the data.
+
+Since the image displays two distinct schedule variations (Option 1 on top, Option 2 on the bottom), I have split them into two clear sections.
+
+---
+
+### **Schedule Option 1 **
+
+| Year | 2021-2022 | 2021-2022 | 2021-2022 | 2021-2022 | 2022-2023 | 2022-2023 | 2022-2023 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Term** | **Fall** | **Winter** | **Spring** | **Summer** | **Fall** | **Winter** | **Spring** |
+| **Courses** | HUMAN 1A | HUMAN 1B | HUMAN 1C | MATH 3A | ICS 46 | ICS 51 | ICS 53 |
+|  | HUMAN H1AS | HUMAN H1BS | HUMAN H1CS |  | IN4MATX 43 | ANTHRO 2A | ICS 53L |
+|  | ICS 32A | ICS 33 | ICS 45C |  | (some ge) | ICS 139W | <6 more units needed> |
+|  | ICS 6B | ICS 6D | STATS 67 |  |  |  |  |
+| **Units** | *Not specified* | *Not specified* | *Not specified* | **4 units** | **12 units** | **14 units** | **12 units** |
+
+---
+
+### **Schedule Option 2 **
+
+| Year | 2021-2022 | 2021-2022 | 2021-2022 | 2021-2022 | 2022-2023 | 2022-2023 | 2022-2023 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Term** | **Fall** | **Winter** | **Spring** | **Summer** | **Fall** | **Winter** | **Spring** |
+| **Courses** | HUMAN 1A | HUMAN 1B | HUMAN 1C | MATH 3A | ICS 45C | ICS 46 | COMPSCI 161 |
+|  | HUMAN H1AS | HUMAN H1BS | HUMAN H1CS |  | ICS 53 | ANTHRO 2A | COMPSCI 171 |
+|  | ICS 32A | ICS 33 | ICS 51 |  | ICS 53L | ICS 139W | <4 more units needed> |
+|  | ICS 6B | ICS 6D | STATS 67 |  | 2 unit filler |  |  |
+| **Units** | **16 units** | **16 units** | **16 units** | **4 units** | **12 units** | **12 units** | **12 units** |
+
+
+45C makes more sense for next quarter, since you'll get to have Professor Thornton. He's the best teacher for 45C, hands down. Plus, if your goal is to learn, you want Wong-ma for 51 and 53, and she's not teaching the class next quarter.
+
+But numbers don't really matter for classes to the extent you might be thinking. 45C doesn't have to be before 51, although it probably should (because knowing some C++ is beneficial, compared to not knowing any C-languages at all).
+
+If you want winter to be easy, load up in fall. Take ICS 46 and 51 and Informatics 43, and just accept it'll be a lot of work for eleven weeks. Then you can have your GE, writing, and Anthro 2A in Winter, a nice chill schedule
+
+How is the workload for ICS 46 and 51 combined? I've heard 46 tends to be the hardest lower-div and 51 with Wong-ma isn't easy either. I don't mind switching Informatics 43 to Winter and replacing it with literally the easiest ge I can find or a random 2 unit filler.
+
+They are very doable together. Just remember to go to class, stay on top of the work, and start your assignments when they're assigned, not just before they're due. Both classes have projects that can be stress-free enough if you give yourself plenty of time.
+
+I took ICS 46 (Shindler) and ICS 51 (Wong-ma) together with a language course as my third class. Didn't face any difficulties (ended with A's in all three), but that may have been because 46 with Shindler was pretty easy
+
+Top schedule is more balanced, and better since its best to get the general series (31-32-33-45c-46) done. I can break them down if you wanna read.
+
+Spring 2022:
+
+Very similar in terms of workload, probably taking Thornton 45C will be harder than Bozorgzadeh 51, but that ends up balancing it better. Humancore is pain, Stats 67 is fine.
+
+Summer 2022:
+
+Condolences for taking Math 3A over the summer. I also did and while the class was pretty easy, summer school just blows.
+
+Fall 2022:
+
+Top by far. Inf 43 is free, GEs tend to be free. 46 is very hard, but 53 is probably harder, and if you have Wongma it is absolutely harder, or at least higher workload. Taking a light load with data structures is nice since it lets you focus on it.
+
+Winter 2023:
+
+Assuming Wongma 51, about the same probably. 51 from what I've heard is higher workload than 46 (and having taken Wongma 51 I can guarantee its a massive workload, though a fantastic class and imo worth). Assuming anyone else, the top is much easier.
+
+Spring 2023:
+
+Pretty similar, its hard to plan that far in advance anyway but 161/53 are both hard, 171 I've hard is easier.
+
+I'd go for the schedule on top or 46/51/INF43 next fall to make your Winter 2023 really chill.
+
+Another thing to keep in mind, you don't have to finish 51/53 before starting Upper Divs (some of which are actually easier). Check the prereqs for the UD class you're interested in, and you should be able to enroll. (e.g. the prereq for CS 125 is only ICS 33, so you can jump straight into that without 45C/46/51/53).
+
+So next fall you can do: ICS 46, INF 43, GE.
+
+Then Winter: ICS 139W, Anthro 2A, [another low workload class]. If you have a specialization as a CS major, there's a list of accepted INF classes on the course catalogue that count towards your requirements. There's also some lower-workload UD CS classes depending on who is teaching that quarter.
+
+Spring: ICS 51, CS 161, [another CS class]
+
+You can also consider part-time status or withdrawing for Winter 2023. If your commitment is an internship, something employment related, something health related, etc you can apply for part-time status for Winter 2023. And you can take up to 10 units (you can do even less if you'd like) at a reduced tuition price. It's pretty easy to get granted part-time status from ICS with documentation. Also, if it doesn't interfere with your housing situation/graduation date, you could apply to withdraw for just Winter 2023 if you want to focus on just your commitment.
+
+
+If the professor for 51 is Wong-ma, it's a very heavy workload. She's a phenomenal professor but it's a 6 unit class that feels like 8 or 10. If the professor is Harris, it's the same-ish projects with bad lectures lol
+
+I personally found 46 easy-ish with Shindler (he kinda goes off topic though), but it's a hard class for some people. The projects took me 3-8 hrs, and you can just copy from the textbook pseudocode.

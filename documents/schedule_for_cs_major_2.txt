@@ -1,0 +1,39 @@
+Hello, I have to complete the following eight lower divs for a CS major:
+
+ICS 51, ICS 45c, ICS 6D, ICS 46, ICS 53, ICS 53L, Stats 67, IN4MTX 43
+
+I already finished all my math courses, GEs and other lower div CS at community college, so my courseload is going to only these CS courses, which I know will be tough. How would you rank the difficulty of these courses, from easiest to hardest? If I wanted to take all of these courses in 2-3 quarters, how would I divide it evenly?
+
+Thanks! Your advice is much appreciated :)
+
+Fall: ICS 45c, ICS 51, Inf 43.
+
+Winter: ICS 46, ICS 6D
+
+Spring: ICS 53, Stats 67 edit - realistically id take cs 161 instead of 53
+
+
+From the course I would say 53 has the highest workload with 43 being the least and 67 as well. So I would take those together. If you take 53 though, take it with Wongma unless you’re already familiar with C and don’t mind disorganized class with Harris. Honestly I’d avoid Harris since people still have grade problems from what I heard even after the quarter has been over. I also heard he coast after lectures so no commutations on piazza, emails etc. People were pretty frustrated I’m sure. They didn’t have an autograder either so a whole bunch of problems with submissions. I will say that wongma is one of the professor you need to take if you’re at uci. She will give you everything you need to do well in the class as well as learn. The first couple weeks may be strenuous but you will get used to it and it will mellow out as well.
+
+
+I agree with tippitytoppitytoop about 53 having the highest workload and needing to be familiar with C before taking it. I personally found taking 45C before 53 was enough for me to get by.
+
+Additionally To perhaps offer additonal perspective about deciding who to take 53 with, I took 53 with both Wongma and Harris. The first was with Wongma and the second time was with Harris. I don't recall having any issues with grades with Harris nor did I think the class was disorganized at the time.
+
+There is no doubt that Wongma's classes are more organized and structured. She definitely spends more time going into details about how things work. This can be good thing for those who want to understand, but at the same time a burden as it felt like the work was more difficult because she expected everyone to put in the time to understand. Harris on the other hand felt more straight forward in that he provided the basic notes required to get started on the assignments. That being said while taking both courses I still had to do additional research on my own to understand the assignments.
+
+I think its also important to say upon reviewing my old notes, both Wongma and Harris utilize the same core notes from Carnegie Mellon. While Harris just went over them essentially just reading the slides with occasional insight; Wongma on the otherhand at times would spend additional time working through examples or have additional notes that would help with understanding. Lastly, something that I distinctly remember was with Wongma we always had to declare variables dynamically whenever we could as opposed to with Harris we could statically declare everything at the beginning.
+
+Feel free to dm me if you want to know any more specifics between the two.
+
+Taking 46 and 53 in one quarter is gonna be really rough, especially if you’re taking Wong for 53. So with that in mind, I say just take 43 in that quarter as it’s the easiest class in that bunch. If you’re trying to do everything in 2 quarters, I say 51, 45C, 6D and 67 for fall, 46, 53, 43 for winter. Honestly it depends on how strong your math skills are bc if you’re not too great at math, then 6D and 67 are gonna take a lot of your time. 51 is okay, it was more boring for me since that’s when you learn about assembly level shit, and 45c is def not a free class, but it’s nothing crazy either. 46, 53, 43 tho, def I would recommend separating 46 and 53 if you can, esp bc 46 is such an important class and I argue that it’s better to just space it out so u can actually focus in that class versus struggling to pass with a C just bc you wanna finish your lower divs asap. But workload wise, as long as your on top of your shit you’ll be fine
+
+Suggestion:
+
+Fall: ICS 51, IN4MTX 43, ICS 6D or Stats 67
+
+Winter: ICS 45C, ICS 53 and 53L (taken together),
+
+Spring: ICS 46, ICS 6D or Stat 67 (whichever you didn't take in Fall, obviously)
+
+You might want to move 6D/67 to Spring from Winter (not Fall), depending on what upper division you want and if it's available in Winter or Spring.

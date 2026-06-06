@@ -1,0 +1,368 @@
+			UC Irvine Office of the Registrar
+		      Schedule of Classes    Friday, June 5, 2026
+
+Search Criteria:
+    Department: I&C SCI
+    Exclude cancelled courses
+
+
+Fall Quarter, 2026      Registration for term ends on Tuesday, September 15, 2026
+
+
+   #########################################################################
+   ###                                                                   ###
+   ###      Donald Bren School of Information and Computer Sciences      ###
+   ###                                                                   ###
+   ###  For ICS course updates, visit the ICS Enrollment Restrictions    ###
+   ###  webpage:                                                         ###
+   ###                                                                   ###
+   ###  Undergraduate courses:                                           ###
+   ###  http://ics.uci.edu/course-enrollment-restrictions/               ###
+   ###                                                                   ###
+   ###  Graduate courses:                                                ###
+   ###  http://ics.uci.edu/academics/graduate-academic-advising/course-updates/ ###
+   ###                                                                   ###
+   ###  It is incumbent on the student to check the restriction status   ###
+   ###  and seating availability of a course before adding or attempting ###
+   ###  to add or change their discussion/lab section enrollment.        ###
+   ###                                                                   ###
+   ###  COURSE PREREQUISITES ARE STRICTLY ENFORCED.  The School of ICS   ###
+   ###  WILL DROP students who do not meet the required course           ###
+   ###  prerequisite(s). These drops may take place at any time after    ###
+   ###  grades are posted until Friday of Week 2. Note that meeting the  ###
+   ###  prerequisites for a course does not guarantee a seat in that     ###
+   ###  course.                                                          ###
+   ###                                                                   ###
+   ###  WAITLIST:  Students on the waitlist for an ICS course should be  ###
+   ###  in communication with that course's instructor to arrange for    ###
+   ###  access to course materials and submission of any assignments     ###
+   ###  while on the waitlist. Being on the waitlist or completing       ###
+   ###  coursework DOES NOT guarantee a seat in the course.              ###
+   ###                                                                   ###
+   ###  DEADLINES TO ADD, DROP, OR CHANGE  GRADE OPTION FOR ALL SCHOOL   ###
+   ###  OF ICS COURSES                                                   ###
+   ###                                                                   ###
+   ###  5:00pm on Friday of Week 1:  Courses with an early deadline to   ###
+   ###  add/drop/change grade option are noted with a comment in the     ###
+   ###  Schedule of Classes. Permission from the instructor and an       ###
+   ###  authorization code will be required after Week 1 to add or drop  ###
+   ###  these courses.                                                   ###
+   ###                                                                   ###
+   ###  5:00pm on Friday of Week 2: The deadline to add/drop/change      ###
+   ###  grade option in WebReg is 5:00pm on Friday, October 9, 2026.     ###
+   ###  The Bren School of ICS strictly adheres to and enforces this     ###
+   ###  deadline for undergraduate and graduate courses.                 ###
+   ###                                                                   ###
+   ###  ADDING, DROPPING, OR CHANGING GRADE OPTION AFTER WEEK 2:         ###
+   ###  Students must submit an Enrollment Exception request online      ###
+   ###  through StudentAccess.  Exception requests will only be approved ###
+   ###  for extenuating and documented circumstances outside of the      ###
+   ###  student's control. For more information on ICS policies:         ###
+   ###  http://ics.uci.edu/academics/undergraduate-programs/majors-minors/undergraduate-student-policies/ ###
+   ###                                                                   ###
+   ###  GRADUATE ENROLLMENT IN UNDERGRADUATE COURSES: Graduate students  ###
+   ###  seeking to enroll in an ICS undergraduate level course must      ###
+   ###  submit a request to ICS Undergraduate Students Affairs. Priority ###
+   ###  for seating in undergraduate courses is given first to           ###
+   ###  undergraduate students. Unauthorized students found enrolled in  ###
+   ###  undergraduate courses WILL BE DROPPED by ICS Student Affairs.    ###
+   ###                                                                   ###
+   ###  UNDERGRADUATE ENROLLMENT IN GRADUATE COURSES: Undergraduate      ###
+   ###  students seeking to enroll in an ICS graduate level course must  ###
+   ###  obtain a written permission from the instructor before           ###
+   ###  submitting a request for an authorization to ICS Graduate        ###
+   ###  Student Affairs. Priority for seating in graduate courses is     ###
+   ###  given first to graduate students. Graduate level courses taken   ###
+   ###  as an undergraduate will not count toward a graduate degree      ###
+   ###  program.                                                         ###
+   ###                                                                   ###
+   ###  DCE CONCURRENT ENROLLMENT: Only courses that show as "OPEN" in   ###
+   ###  the Schedule of Classes may be requested. Approval of requests   ###
+   ###  is contingent on seating availability and prerequisite           ###
+   ###  eligibility. For more information:                               ###
+   ###  http://ics.uci.edu/academics/undergraduate-academic-advising/concurrent-enrollment/ ###
+   ###                                                                   ###
+   #########################################################################
+
+       _________________________________________________________________
+
+                      Information and Computer Science
+
+        RESTRICTIONS: Most I&C SCI courses will be initially restricted
+        to majors in the Donald Bren School of Information and Computer
+        Sciences ONLY. Some courses will be additionally restricted to
+        specific majors or level(s) of standing. For restriction details
+        and update timeline:
+        http://ics.uci.edu/course-enrollment-restrictions/
+
+        WAITLIST: Students on the waitlist for an ICS course should be
+        in communication with that course's instructor to arrange for
+        access to course materials and submission of any assignments
+        while on the waitlist. Being on the waitlist or completing
+        coursework DOES NOT guarantee a seat in the course.
+
+        DISCUSSIONS & LABS: Discussion and lab sections begin meeting
+        AFTER the first lecture. Always check for messages from your
+        instructors before the start of instruction.
+
+        Some lab sections are scheduled in laptop instructional labs,
+        ICS 364A, ICS2 162, or ICS2 170. Students enrolled in these labs
+        are required to bring a personal laptop to class meetings.
+
+        B or X Restricted Courses: Courses with a B or X restriction
+        require an authorization code from the instructor to enroll.
+       _________________________________________________________________
+
+I&C Sci  5         GLBL DSRPT INF TECH
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    35910 LEC A   4   TOMLINSON, W.    Online            *TBA*    ON LINE                    TBA     285     135  17 194  150         NewOnly
+                      STAFF                                                                                                           
+                      STAFF                                                                                                           
+
+I&C Sci  6B        BOOL LOG & DISC STR
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    35920 LEC A   4   GASSKO, I.       In-Person         MWF11:00-11:50  EH 1200                    Fri, Dec 11, 8:00-10:00am     300      37 n/a  71  225 A       OPEN
+                      STAFF                                                                                                           
+    35925 LEC B   4   GASSKO, I.       In-Person         MWF 3:00- 3:50p ELH 100                    Mon, Dec 7, 4:00-6:00pm     300      16 n/a  32  225 A       OPEN
+                      STAFF                                                                                                           
+    35931 DIS 1   0   STAFF            In-Person         W 5:00- 6:50p BS3 1200                           300      27 n/a  30  225 A       OPEN
+                      GASSKO, I.                                                                                                      
+    35932 DIS 2   0   STAFF            In-Person         M 5:00- 6:50p ELH 100                            300      26 n/a  31  225 A       OPEN
+                      GASSKO, I.                                                                                                      
+
+I&C Sci  6D        DISCRET MATH FOR CS
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    35950 LEC A   4   ZHANG, J.        In-Person         TuTh11:00-12:20p EH 1200                    Tue, Dec 8, 10:30-12:30pm     325     127   0 209  150 A       OPEN
+    35951 DIS A1  0   STAFF            In-Person         F 2:00- 3:50p HIB 100                            325     127   0 133  150 A       OPEN
+                      STAFF                                                                                                           
+                      ZHANG, J.                                                                                                       
+
+I&C Sci  12        AI & SOCIETY
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36010 LEC A   4   BLACK, R.        Online            *TBA*    ON LINE                    TBA     300     150  25 242  150         NewOnly
+                      STAFF                                                                                                           
+
+I&C Sci  31        INTRO TO PROGRMMING
+      ~ No credit is given for I&C SCI 31 if taken concurrently with or after
+      ~    EECS 10, EECS 12, or MAE 10.
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36040 LEC A   4   ALFARO, S.       In-Person         TuTh 9:30-10:50  ALP 2300                   Thu, Dec 10, 8:00-10:00am     182       0 n/a  28  182 A       NewOnly
+    36045 LEC B   4   ALFARO, S.       In-Person         TuTh11:00-12:20p ALP 2300                   Tue, Dec 8, 10:30-12:30pm     182       0 n/a  22  182 A       NewOnly
+    36051 LAB 1   0   STAFF            In-Person         MWF 8:00- 9:20  ICS 189                             44       0 n/a   0   44 A       NewOnly
+                      ALFARO, S.                                                                                                      
+    36052 LAB 2   0   STAFF            In-Person         MWF 8:00- 9:20  ICS 192                             36       0 n/a   0   36 A       NewOnly
+                      ALFARO, S.                                                                                                      
+    36053 LAB 3   0   STAFF            In-Person         MWF 9:30-10:50  ICS 189                             44       0 n/a   0   44 A       NewOnly
+                      ALFARO, S.                                                                                                      
+    36054 LAB 4   0   STAFF            In-Person         MWF 9:30-10:50  ICS 192                             36       0 n/a   0   36 A       NewOnly
+                      ALFARO, S.                                                                                                      
+    36055 LAB 5   0   STAFF            In-Person         MWF11:00-12:20p ICS 189                             44       0 n/a   2   44 A       NewOnly
+                      ALFARO, S.                                                                                                      
+    36056 LAB 6   0   STAFF            In-Person         MWF11:00-12:20p ICS 192                             36       0 n/a   0   36 A       NewOnly
+                      ALFARO, S.                                                                                                      
+    36057 LAB 7   0   STAFF            In-Person         MWF12:30- 1:50p ICS 189                             44       0 n/a   1   44 A       NewOnly
+                      ALFARO, S.                                                                                                      
+    36058 LAB 8   0   STAFF            In-Person         MWF12:30- 1:50p ICS 192                             36       0 n/a   0   36 A       NewOnly
+                      ALFARO, S.                                                                                                      
+    36059 LAB 9   0   STAFF            In-Person         MWF 2:00- 3:20p ICS 189                             44       0 n/a   0   44 A       NewOnly
+                      ALFARO, S.                                                                                                      
+
+I&C Sci  32        PROG SOFTWARE LIBR
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36080 LEC A   4   YEH, T.          In-Person         MW12:30- 1:50p PCB 1100                   Mon, Dec 7, 1:30-3:30pm     165      16   0  66    0 A       OPEN
+    36081 LAB A1  0   STAFF            In-Person         MW 2:00- 3:20p ICS 192                             33      13   0  16    0 A       OPEN
+                      YEH, T.                                                                                                         
+    36082 LAB A2  0   STAFF            In-Person         MW 3:30- 4:50p ICS 192                             33       0   0   0    0 A       OPEN
+                      YEH, T.                                                                                                         
+    36083 LAB A3  0   STAFF            In-Person         MW 3:30- 4:50p ICS 189                             33       1   0   1    0 A       OPEN
+                      YEH, T.                                                                                                         
+    36084 LAB A4  0   STAFF            In-Person         MW 5:00- 6:20p ICS 189                             33       2   0   4    0 A       OPEN
+                      YEH, T.                                                                                                         
+    36085 LAB A5  0   STAFF            In-Person         MW 6:30- 7:50p ICS 189                             33       0   0   0    0 A       OPEN
+                      YEH, T.                                                                                                         
+
+I&C Sci  H32       PYTHN PGMG LIBR/ACC
+      ~ Previously offered as ICS 32A, "PYTHN PGMG LIBR/ACC".
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36090 LEC A   4   THORNTON, A.     In-Person         TuTh 6:30- 7:50p BS3 1200                   TBA     347       0   1  14  347 A       NewOnly
+    36091 LAB A1  0   STAFF            In-Person         M12:00-12:50p *TBA*                               50       0   0   0   50 A       NewOnly
+                      STAFF                                                                                                           
+                      THORNTON, A.                                                                                                    
+    36092 LAB A2  0   STAFF            In-Person         M 1:00- 1:50p *TBA*                               50       0   0   2   50 A       NewOnly
+                      STAFF                                                                                                           
+                      THORNTON, A.                                                                                                    
+    36093 LAB A3  0   STAFF            In-Person         M 2:00- 2:50p *TBA*                               50       0   1   2   50 A       NewOnly
+                      STAFF                                                                                                           
+                      THORNTON, A.                                                                                                    
+    36094 LAB A4  0   STAFF            In-Person         W12:00-12:50p *TBA*                               50       0   0   0   50 A       NewOnly
+                      STAFF                                                                                                           
+                      THORNTON, A.                                                                                                    
+    36095 LAB A5  0   STAFF            In-Person         W 1:00- 1:50p *TBA*                               49       0   0   0   49 A       NewOnly
+                      STAFF                                                                                                           
+                      THORNTON, A.                                                                                                    
+    36096 LAB A6  0   STAFF            In-Person         W 2:00- 2:50p *TBA*                               49       0   0   0   49 A       NewOnly
+                      STAFF                                                                                                           
+                      THORNTON, A.                                                                                                    
+    36097 LAB A7  0   STAFF            In-Person         W 3:00- 3:50p *TBA*                               49       0   0   0   49 A       NewOnly
+                      STAFF                                                                                                           
+                      THORNTON, A.                                                                                                    
+
+I&C Sci  33        INTERMEDIATE PRGRMG
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36100 LEC A   4   THORNTON, A.     In-Person         TuTh 5:00- 6:20p BS3 1200                   Thu, Dec 10, 4:00-6:00pm     224      44   0 108    0 A       OPEN
+    36101 LAB A1  0   STAFF            In-Person         Tu 3:00- 3:50p *TBA*                               56      24   0  26    0 A       OPEN
+                      THORNTON, A.                                                                                                    
+    36102 LAB A2  0   STAFF            In-Person         Tu 4:00- 4:50p *TBA*                               56      12   0  13    0 A       OPEN
+                      STAFF                                                                                                           
+                      THORNTON, A.                                                                                                    
+    36103 LAB A3  0   STAFF            In-Person         Th 3:00- 3:50p *TBA*                               56       1   0   1    0 A       OPEN
+                      THORNTON, A.                                                                                                    
+    36104 LAB A4  0   STAFF            In-Person         Th 4:00- 4:50p *TBA*                               56       7   0   8    0 A       OPEN
+                      STAFF                                                                                                           
+                      THORNTON, A.                                                                                                    
+
+I&C Sci  45C       PROGRAM IN C/C++
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36120 LEC A   4   KLEFSTAD, R.     In-Person         TuTh12:30- 1:50p ALP 2300                   Fri, Dec 11, 10:30-12:30pm     255     161   0 180   80 A       OPEN
+                      STAFF                                                                                                           
+                      STAFF                                                                                                           
+
+I&C Sci  45J       PROGRAMMING IN JAVA
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36130 LEC A   4   NAVARRO, E.      In-Person         TuTh 2:00- 3:20p PSLH 100                   Thu, Dec 10, 1:30-3:30pm     300     123   0 182   60 A&N     OPEN
+                      STAFF                                                                                                           
+                      STAFF                                                                                                           
+
+I&C Sci  46        DATA STRC IMPL&ANLS
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36140 LEC A   4   YEH, T.          In-Person         TuTh 3:30- 4:50p BS3 1200                   Tue, Dec 8, 4:00-6:00pm     360     280  11 332   80 A       NewOnly
+                      STAFF                                                                                                           
+                      STAFF                                                                                                           
+    36141 DIS A1  0   STAFF            In-Person         F 4:00- 4:50p PSLH 100                           360     280  11 304   80 A       NewOnly
+                      STAFF                                                                                                           
+                      YEH, T.                                                                                                         
+
+I&C Sci  51        INTRO COMPUTER ORG
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36150 LEC A   6   BOZORGZADEH, E.  In-Person         MWF 1:00- 1:50p HIB 100                    Wed, Dec 9, 1:30-3:30pm     246     114 n/a 158    0 A&N     OPEN
+    36151 DIS 1A  0   STAFF            In-Person         W 6:00- 6:50p ALP 1300                           246     114 n/a 123    0 A&N     OPEN
+                      STAFF                                                                                                           
+                      BOZORGZADEH, E.                                                                                                 
+    36152 LAB A1  0   STAFF            In-Person         TuTh 8:00- 9:20  ICS 189                             41       6 n/a   7    0 A&N     OPEN
+                      STAFF                                                                                                           
+                      BOZORGZADEH, E.                                                                                                 
+    36153 LAB A2  0   STAFF            In-Person         TuTh 9:30-10:50  ICS 189                             41      14 n/a  15    0 A&N     OPEN
+                      STAFF                                                                                                           
+                      BOZORGZADEH, E.                                                                                                 
+    36154 LAB A3  0   STAFF            In-Person         TuTh11:00-12:20p ICS 189                             41      34 n/a  37    0 A&N     OPEN
+                      STAFF                                                                                                           
+                      BOZORGZADEH, E.                                                                                                 
+    36155 LAB A4  0   STAFF            In-Person         TuTh12:30- 1:50p ICS 189                             41      18 n/a  18    0 A&N     OPEN
+                      STAFF                                                                                                           
+                      BOZORGZADEH, E.                                                                                                 
+    36156 LAB A5  0   STAFF            In-Person         TuTh 2:00- 3:20p ICS 189                             41      35 n/a  36    0 A&N     OPEN
+                      STAFF                                                                                                           
+                      BOZORGZADEH, E.                                                                                                 
+    36157 LAB A6  0   STAFF            In-Person         TuTh 3:30- 4:50p ICS 189                             41       7 n/a  11    0 A&N     OPEN
+                      STAFF                                                                                                           
+                      BOZORGZADEH, E.                                                                                                 
+
+I&C Sci  53        PRINCP IN SYS DESGN
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36170 LEC A   6   WONG-MA, J.      In-Person         MWF 3:00- 3:50p ALP 1300                   Mon, Dec 7, 4:00-6:00pm     330     330 n/a 388    0 A&N     FULL
+    36171 DIS 1A  0   STAFF            In-Person         M 6:00- 6:50p HIB 100                            330     330 n/a 347    0 A&N     FULL
+                      STAFF                                                                                                           
+                      WONG-MA, J.                                                                                                     
+    36173 LAB A1  0   STAFF            In-Person         *TBA*    *TBA*                               55      55 n/a  56    0 A&N     FULL
+                      STAFF                                                                                                           
+                      WONG-MA, J.                                                                                                     
+    36174 LAB A2  0   STAFF            In-Person         *TBA*    *TBA*                               55      55 n/a  53    0 A&N     FULL
+                      STAFF                                                                                                           
+                      WONG-MA, J.                                                                                                     
+    36175 LAB A3  0   STAFF            In-Person         *TBA*    *TBA*                               55      55 n/a  54    0 A&N     FULL
+                      STAFF                                                                                                           
+                      WONG-MA, J.                                                                                                     
+    36176 LAB A4  0   STAFF            In-Person         *TBA*    *TBA*                               55      55 n/a  58    0 A&N     FULL
+                      STAFF                                                                                                           
+                      WONG-MA, J.                                                                                                     
+    36177 LAB A5  0   STAFF            In-Person         *TBA*    *TBA*                               55      55 n/a  55    0 A&N     FULL
+                      STAFF                                                                                                           
+                      WONG-MA, J.                                                                                                     
+    36178 LAB A6  0   STAFF            In-Person         *TBA*    *TBA*                               55      55 n/a  52    0 A&N     FULL
+                      STAFF                                                                                                           
+                      WONG-MA, J.                                                                                                     
+
+I&C Sci  60        GAMES AND SOCIETY
+      ~ Formerly titled "CMP GAMES & SOCIETY". Students with prior credit for
+      ~    I&C SCI 60, "CMP GAMES & SOCIETY" may not take I&C SCI 60, "GAMES
+      ~    AND SOCIETY".
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36190 LEC A   4   STEINKUEHLER, C. In-Person         TuTh11:00-12:20p ALP 1300                   Tue, Dec 8, 10:30-12:30pm     300  64/150  20  90  150 A       NewOnly
+                      STAFF                                                                                                           
+                      STAFF                                                                                                           
+      ~ Same as 35740 (GDIM 41, Lec A).
+
+I&C Sci  139W      CRITICAL WRITING
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36250 LEC A   4   YOUNG, N.        Online            *TBA*    ON LINE                    TBA     100      50  40 189   50 J&N     NewOnly
+                      STAFF                                                                                                           
+    36251 DIS A1  0   STAFF            Online            *TBA*    ON LINE                             25      13  11  33   12 J&N     NewOnly
+                      YOUNG, N.                                                                                                       
+    36252 DIS A2  0   STAFF            Online            *TBA*    ON LINE                             25      12  11  29   13 J&N     NewOnly
+                      YOUNG, N.                                                                                                       
+    36253 DIS A3  0   STAFF            Online            *TBA*    ON LINE                             25      13   8  24   12 J&N     NewOnly
+                      YOUNG, N.                                                                                                       
+    36254 DIS A4  0   STAFF            Online            *TBA*    ON LINE                             25      12  10  24   13 J&N     NewOnly
+                      YOUNG, N.                                                                                                       
+    36260 LEC B   4   BLACK, R.        Online            *TBA*    ON LINE                    TBA     100      50  51 223   50 J&N     NewOnly
+      ~ I&C SCI 139W, Lec B, will be restricted to add/drop by authorization
+      ~    code only after 5:00pm on October 2, 2026.
+    36261 DIS B1  0   STAFF            Online            *TBA*    ON LINE                             25      13  13  43   12 J&N     NewOnly
+                      BLACK, R.                                                                                                       
+    36262 DIS B2  0   STAFF            Online            *TBA*    ON LINE                             25      12  13  27   13 J&N     NewOnly
+                      BLACK, R.                                                                                                       
+    36263 DIS B3  0   STAFF            Online            *TBA*    ON LINE                             25      13  13  26   12 J&N     NewOnly
+                      BLACK, R.                                                                                                       
+    36264 DIS B4  0   STAFF            Online            *TBA*    ON LINE                             25      12  12  24   13 J&N     NewOnly
+                      BLACK, R.                                                                                                       
+    36270 LEC C   4   BLACK, R.        Online            *TBA*    ON LINE                    TBA     100      50  51 140   50 J&N     NewOnly
+      ~ I&C SCI 139W, Lec C, will be restricted to add/drop by authorization
+      ~    code only after 5:00pm on October 2, 2026.
+    36271 DIS C1  0   STAFF            Online            *TBA*    ON LINE                             25      13  13  30   12 J&N     NewOnly
+                      BLACK, R.                                                                                                       
+    36272 DIS C2  0   STAFF            Online            *TBA*    ON LINE                             25      12  12  27   13 J&N     NewOnly
+                      BLACK, R.                                                                                                       
+    36273 DIS C3  0   STAFF            Online            *TBA*    ON LINE                             25      13  13  27   12 J&N     NewOnly
+                      BLACK, R.                                                                                                       
+    36274 DIS C4  0   STAFF            Online            *TBA*    ON LINE                             25      12  13  27   13 J&N     NewOnly
+                      BLACK, R.                                                                                                       
+
+I&C Sci  192       INDUS/PBLC FLD STDY
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36310 FLD C   2   IRANI, S.        In-Person         *TBA*    *TBA*                      TBA       8       0 n/a   1    0 D&X     OPEN
+    36315 FLD D   4   IRANI, S.        In-Person         *TBA*    *TBA*                      TBA       4       0 n/a   0    0 D&X     OPEN
+
+I&C Sci  H197      HONORS SEMINAR
+    CCode Typ Sec Unt Instructor       Modality          Time     Place                      Final Max         Enr  WL Req Nor  Rstr    Status
+    36320 LEC A   2   STAFF            In-Person         WF 1:00- 1:50p ICS 180                    Wed, Dec 9, 1:30-3:30pm      55       0 n/a   7    0 B&D     OPEN
+
+
+*** Total Classes Displayed: 77
+    Values in the "Enr" column like "64/150" show "section / joint" enrollment
+	totals for cross-listed courses.
+    The column headings above are defined at:
+	    https://www.reg.uci.edu/help/WebSoc-Columns.shtml
+    Course textbooks link:
+	    https://uci.bncollege.com
+    Building Abbreviations:
+	    https://www.reg.uci.edu/uci/rooms
+    Campus map:
+	    https://www.uci.edu/campusmap
+
+Restriction Codes from the 'Rst' column above:
+    A: Prerequisite required
+    B: Authorization required
+    D: Pass/not pass option only
+    J: Upper-division only
+    N: School major only
+    X: Separate authorization codes required to add, drop, or change enrollment
