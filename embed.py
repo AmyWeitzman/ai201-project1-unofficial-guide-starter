@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 
 import chromadb
@@ -6,6 +7,7 @@ from sentence_transformers import SentenceTransformer
 from ingest import DOCUMENTS_DIR, chunk_documents, clean, load_documents
 
 CHROMA_PATH = Path(__file__).parent / "chroma_db"
+CHUNKS_PATH = Path(__file__).parent / "chunks.json"
 COLLECTION_NAME = "uci_cs_guide"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 TOP_K = 5
@@ -37,6 +39,11 @@ def build_index(chunks: list[dict], model: SentenceTransformer) -> chromadb.Coll
             for i, c in enumerate(chunks)
         ],
     )
+
+    CHUNKS_PATH.write_text(
+        json.dumps(chunks, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"  Saved {len(chunks)} chunks to {CHUNKS_PATH}")
 
     print(f"  Stored {collection.count()} chunks in ChromaDB at {CHROMA_PATH}")
     return collection
