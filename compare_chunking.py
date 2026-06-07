@@ -56,7 +56,7 @@ def chunk_documents(documents: list[dict], strategy: Strategy) -> list[dict]:
 def build_collection(
     chunks: list[dict], model: SentenceTransformer, collection_name: str
 ) -> chromadb.Collection:
-    client = chromadb.Client()  # in-memory, discarded after script exits
+    client = chromadb.Client()  # in-memory
     collection = client.create_collection(
         collection_name, metadata={"hnsw:space": "cosine"}
     )
@@ -84,13 +84,97 @@ def retrieve(query: str, collection: chromadb.Collection, model: SentenceTransfo
     ]
 
 
+# ── Singletons for UI integration ────────────────────────────────────────────
+# Collections are built once on first call to compare_for_query() and reused.
+_eval_model: SentenceTransformer | None = None
+_eval_collections: dict[str, chromadb.Collection] | None = None
+_eval_chunk_counts: dict[str, int] = {}
+_eval_clients: list = []  # keep clients alive so in-memory collections aren't GC'd
+
+
+def _load_eval_resources() -> tuple[SentenceTransformer, dict[str, chromadb.Collection], dict[str, int]]:
+    global _eval_model, _eval_collections, _eval_chunk_counts, _eval_clients
+    if _eval_collections is not None:
+        return _eval_model, _eval_collections, _eval_chunk_counts
+
+    print("Building chunking comparison index (one-time, ~30s)...")
+    if _eval_model is None:
+        _eval_model = SentenceTransformer(EMBEDDING_MODEL)
+
+    documents = load_documents(DOCUMENTS_DIR)
+    for doc in documents:
+        doc["text"] = clean(doc["text"])
+
+    _eval_collections = {}
+    for strategy in STRATEGIES:
+        print(f"  Indexing {strategy.name} strategy...")
+        chunks = chunk_documents(documents, strategy)
+        client = chromadb.Client()
+        _eval_clients.append(client)  # prevent GC
+        collection = client.create_collection(
+            f"eval_{strategy.name.lower()}", metadata={"hnsw:space": "cosine"}
+        )
+        texts = [c["text"] for c in chunks]
+        embeddings = _eval_model.encode(texts, show_progress_bar=False, batch_size=64)
+        collection.add(
+            ids=[str(i) for i in range(len(chunks))],
+            embeddings=embeddings.tolist(),
+            documents=texts,
+            metadatas=[{"source": c["source"]} for c in chunks],
+        )
+        _eval_collections[strategy.name] = collection
+        _eval_chunk_counts[strategy.name] = len(chunks)
+
+    print("  Chunking comparison index ready.")
+    return _eval_model, _eval_collections, _eval_chunk_counts
+
+
+def compare_for_query(query: str) -> str:
+    """Return a formatted comparison string for one query across all strategies."""
+    model, collections, chunk_counts = _load_eval_resources()
+
+    query_results = []
+    for strategy in STRATEGIES:
+        results = retrieve(query, collections[strategy.name], model)
+        avg_dist = sum(r["distance"] for r in results) / len(results)
+        query_results.append((strategy, avg_dist, results))
+
+    query_results.sort(key=lambda x: x[1])
+
+    lines = [f'Chunking comparison for: "{query}"', "-" * 52, ""]
+    medals = ["1st (best)", "2nd      ", "3rd      "]
+    for rank, (strategy, avg_dist, results) in enumerate(query_results):
+        lines.append(
+            f"{medals[rank]}  {strategy.name}  "
+            f"(size={strategy.chunk_size}, overlap={strategy.chunk_overlap})"
+        )
+        lines.append(
+            f"           Avg distance: {avg_dist:.4f}  |  "
+            f"{chunk_counts[strategy.name]} total chunks"
+        )
+        lines.append("           Top sources retrieved:")
+        for r in results[:3]:
+            lines.append(f"             • {r['source']}  (dist={r['distance']:.4f})")
+        lines.append("")
+
+    improvement = round(query_results[-1][1] - query_results[0][1], 4)
+    lines.append(
+        f"Winner: {query_results[0][0].name} chunks "
+        f"({improvement} lower avg distance than worst strategy)"
+    )
+    lines.append("Lower cosine distance = retrieved chunks are more relevant to the query.")
+    return "\n".join(lines)
+
+
+# ── Standalone full evaluation ────────────────────────────────────────────────
+
 @dataclass
 class StrategyResult:
     strategy: Strategy
     num_chunks: int
     avg_distance: float
     unique_sources: set[str]
-    per_query: list[list[dict]]  # [query_idx][chunk_idx]
+    per_query: list[list[dict]]
 
 
 def evaluate(
@@ -123,7 +207,6 @@ def print_report(results: list[StrategyResult]) -> None:
     print(f"Metric: cosine distance (lower = more similar to query)")
     print(sep)
 
-    # Summary table
     print(f"\n{'Strategy':<10}  {'Chunks':>7}  {'Avg Dist':>9}  {'Unique Sources':>15}  Description")
     print("-" * 70)
     for r in results:
@@ -132,11 +215,9 @@ def print_report(results: list[StrategyResult]) -> None:
             f"  {len(r.unique_sources):>15}  {r.strategy.description}"
         )
 
-    # Winner
     best = min(results, key=lambda r: r.avg_distance)
     print(f"\nBest average retrieval distance: {best.strategy.name} ({best.avg_distance})")
 
-    # Per-query breakdown
     print(f"\n{sep}")
     print("PER-QUERY DISTANCE BREAKDOWN")
     print(sep)
@@ -150,7 +231,6 @@ def print_report(results: list[StrategyResult]) -> None:
             row += f"  {avg:>8.4f}"
         print(row)
 
-    # Source overlap analysis
     print(f"\n{sep}")
     print("SOURCE DIVERSITY (unique source files surfaced per strategy)")
     print(sep)
@@ -159,13 +239,12 @@ def print_report(results: list[StrategyResult]) -> None:
         for src in sorted(r.unique_sources):
             print(f"  • {src}")
 
-    # Recommendation
     print(f"\n{sep}")
     print("RECOMMENDATION")
     print(sep)
     scores = {r.strategy.name: r.avg_distance for r in results}
     ranked = sorted(scores.items(), key=lambda x: x[1])
-    print(f"Ranked by average distance (best first):")
+    print("Ranked by average distance (best first):")
     for name, score in ranked:
         r = next(x for x in results if x.strategy.name == name)
         print(f"  {name}: {score}  ({r.num_chunks} chunks)")
