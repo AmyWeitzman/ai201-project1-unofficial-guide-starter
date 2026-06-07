@@ -206,7 +206,7 @@ def ask(
         chunks = _filter_chunks_for_followup(chunks, last_answer)
 
     if source_filter:
-        retrieval_method += f" | filtered to {len(source_filter)} source(s)"
+        retrieval_method += f" | searching within {len(source_filter)} source file(s)"
 
     context = _build_context(chunks)
 

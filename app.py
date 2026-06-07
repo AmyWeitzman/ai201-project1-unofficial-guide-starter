@@ -134,7 +134,8 @@ with gr.Blocks(title="ChatZOT", theme=gr.themes.Soft()) as demo:
         comparison = gr.Textbox(
             label="",
             show_label=False,
-            lines=14,
+            lines=20,
+            max_lines=20,
             interactive=False,
             placeholder="Enable 'Compare Chunking Strategies' in settings above, then submit a query.",
         )
