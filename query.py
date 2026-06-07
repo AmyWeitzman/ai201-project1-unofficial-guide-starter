@@ -29,7 +29,9 @@ If the context documents do not contain enough information to answer the questio
 
 Do not make assumptions or inferences beyond what is explicitly stated in the documents.
 Be specific: quote or paraphrase the relevant parts of the documents in your answer.
-Always include citations. When citing information, refer to the source by its filename as it appears in the document header (e.g. "According to rate_my_professor.txt..." or "A student on low_stress_cs_electives.txt noted...")."""
+Always include citations. When citing information, refer to the source by its filename as it appears in the document header (e.g. "According to rate_my_professor.txt..." or "A student on low_stress_cs_electives.txt noted...").
+
+When the user uses pronouns or follow-up references ("which one", "those", "it", "that one", "of those") that refer to items from earlier in the conversation, limit your answer strictly to the courses, professors, or topics already mentioned in the prior conversation. Do not introduce new items from the context documents that were not part of the previous response."""
 
 # Module-level singletons — loaded once, reused across all queries
 _model: SentenceTransformer | None = None
@@ -144,14 +146,42 @@ def _build_context(chunks: list[dict]) -> str:
     return "\n\n---\n\n".join(parts)
 
 
+def _extract_course_codes(text: str) -> list[str]:
+    """Extract UCI course codes like CS 161, ICS 32, CS 178A from text."""
+    import re
+    return re.findall(r'\b(?:CS|ICS|INF|COMPSCI)\s*\d+[A-Z]?\b', text, re.IGNORECASE)
+
+
+def _filter_chunks_for_followup(chunks: list[dict], last_answer: str) -> list[dict]:
+    """
+    When the user asks a follow-up, filter retrieved chunks to those that mention
+    the same courses as the prior answer. Falls back to all chunks if none match,
+    so a refusal is never triggered by over-filtering.
+    """
+    codes = _extract_course_codes(last_answer)
+    if not codes:
+        return chunks
+    codes_upper = [c.upper().replace(" ", "") for c in codes]
+    filtered = [
+        c for c in chunks
+        if any(code in c["text"].upper().replace(" ", "") for code in codes_upper)
+    ]
+    return filtered if filtered else chunks
+
+
 def ask(
     question: str,
     k: int = TOP_K,
     use_hybrid: bool = True,
     source_filter: list[str] | None = None,
+    history: list[dict] | None = None,
 ) -> dict:
     """
     Run the full RAG pipeline for a question.
+
+    history is a list of prior {"role": "user"/"assistant", "content": str} turns.
+    Fresh context is retrieved and injected only for the current question; prior
+    turns provide conversational continuity without re-injecting their context.
 
     Returns {"answer": str, "sources": list[str], "chunks": list[dict],
              "retrieval_method": str}
@@ -168,18 +198,41 @@ def ask(
         chunks = semantic_chunks
         retrieval_method = "semantic only"
 
+    # For follow-up questions, filter retrieved chunks to those mentioning prior courses
+    if history:
+        last_answer = next(
+            (m["content"] for m in reversed(history) if m["role"] == "assistant"), ""
+        )
+        chunks = _filter_chunks_for_followup(chunks, last_answer)
+
     if source_filter:
         retrieval_method += f" | filtered to {len(source_filter)} source(s)"
 
     context = _build_context(chunks)
-    user_message = f"Context documents:\n\n{context}\n\n---\n\nQuestion: {question}"
+
+    if history:
+        last_answer = next(
+            (m["content"] for m in reversed(history) if m["role"] == "assistant"), ""
+        )
+        user_message = (
+            f"Context documents:\n\n{context}\n\n---\n\n"
+            f"Your previous response was:\n{last_answer}\n\n"
+            f"The user is asking a follow-up question. "
+            f"Answer ONLY about the specific courses, professors, or topics you mentioned "
+            f"in your previous response above. Do not introduce anything new.\n\n"
+            f"Follow-up question: {question}"
+        )
+    else:
+        user_message = f"Context documents:\n\n{context}\n\n---\n\nQuestion: {question}"
+
+    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+    if history:
+        messages.extend(history)
+    messages.append({"role": "user", "content": user_message})
 
     response = groq_client.chat.completions.create(
         model=GROQ_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_message},
-        ],
+        messages=messages,
         temperature=0.2,
     )
 

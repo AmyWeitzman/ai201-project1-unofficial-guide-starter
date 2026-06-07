@@ -51,23 +51,46 @@ def handle_query(
     use_hybrid: bool,
     show_comparison: bool,
     selected_categories: list[str],
+    history: list[dict],
 ) -> tuple:
     if not question.strip():
-        return "", "", ""
+        return history, "", "", history, question
 
     source_filter = resolve_source_filter(selected_categories)
-    result = ask(question, use_hybrid=use_hybrid, source_filter=source_filter)
+    result = ask(
+        question,
+        use_hybrid=use_hybrid,
+        source_filter=source_filter,
+        history=history,
+    )
+
+    new_history = history + [
+        {"role": "user", "content": question},
+        {"role": "assistant", "content": result["answer"]},
+    ]
 
     sources_lines = [f"• {s}" for s in result["sources"]]
     sources_lines.append(f"\n[{result['retrieval_method']}]")
     sources_text = "\n".join(sources_lines)
 
     comp_text = compare_for_query(question) if show_comparison else ""
-    return result["answer"], sources_text, comp_text
+
+    return new_history, sources_text, comp_text, new_history, ""
 
 
-with gr.Blocks(title="UCI CS Unofficial Guide", theme=gr.themes.Soft()) as demo:
-    gr.Markdown("## UCI CS Unofficial Course Guide\nAsk about courses, professors, schedules, and degree requirements.")
+def clear_conversation() -> tuple:
+    return [], "", "", [], ""
+
+
+with gr.Blocks(title="ChatZOT", theme=gr.themes.Soft()) as demo:
+    gr.Markdown("### The UCI Unofficial Course Guide for CS Majors\nAsk about courses, professors, schedules, and degree requirements.")
+
+    history_state = gr.State([])
+
+    chatbot = gr.Chatbot(
+        label="Conversation",
+        height=400,
+    )
 
     inp = gr.Textbox(
         label="Your query",
@@ -79,7 +102,7 @@ with gr.Blocks(title="UCI CS Unofficial Guide", theme=gr.themes.Soft()) as demo:
     categories = gr.CheckboxGroup(
         choices=list(DOCUMENT_CATEGORIES.keys()),
         value=[],
-        label="",
+        label="Filters",
         interactive=True,
     )
 
@@ -95,21 +118,27 @@ with gr.Blocks(title="UCI CS Unofficial Guide", theme=gr.themes.Soft()) as demo:
             info="Shows how Small / Medium / Large chunk sizes compare for this query. Slow on first run (~30s).",
         )
 
-    btn = gr.Button("Submit", variant="primary")
-    answer = gr.Textbox(label="Response", lines=10, interactive=False)
+    with gr.Row():
+        btn = gr.Button("Submit", variant="primary")
+        clear_btn = gr.Button("Clear Conversation", variant="secondary")
+
     sources = gr.Textbox(label="Sources", lines=5, interactive=False)
     comparison = gr.Textbox(
-        label="Chunking Strategy Comparison (enable checkbox above to populate)",
+        label="Chunking Strategy Comparison",
         lines=14,
         interactive=False,
     )
 
-    inputs = [inp, use_hybrid, show_comparison, categories]
-    outputs = [answer, sources, comparison]
+    inputs = [inp, use_hybrid, show_comparison, categories, history_state]
+    outputs = [chatbot, sources, comparison, history_state, inp]
 
     btn.click(handle_query, inputs=inputs, outputs=outputs)
     inp.submit(handle_query, inputs=inputs, outputs=outputs)
+    clear_btn.click(
+        clear_conversation,
+        outputs=[chatbot, sources, comparison, history_state, inp],
+    )
 
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(favicon_path="./petr.png")
