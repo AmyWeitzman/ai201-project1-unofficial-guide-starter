@@ -38,12 +38,21 @@ DOCUMENT_CATEGORIES: dict[str, list[str]] = {
 
 
 def resolve_source_filter(selected_categories: list[str]) -> list[str] | None:
-    if not selected_categories:
+    # No filter when nothing or everything is selected
+    if not selected_categories or set(selected_categories) == set(DOCUMENT_CATEGORIES.keys()):
         return None
     sources = []
     for cat in selected_categories:
         sources.extend(DOCUMENT_CATEGORIES[cat])
     return sources
+
+
+def build_source_footer(result: dict) -> str:
+    parts = []
+    if result["sources"]:
+        parts.append("**Sources:** " + " · ".join(result["sources"]))
+    parts.append(f"*{result['retrieval_method']}*")
+    return "\n\n---\n" + "\n\n".join(parts)
 
 
 def handle_query(
@@ -52,9 +61,10 @@ def handle_query(
     show_comparison: bool,
     selected_categories: list[str],
     history: list[dict],
+    chatbot_val: list,
 ) -> tuple:
     if not question.strip():
-        return history, "", "", history, question
+        return chatbot_val, "", history, ""
 
     source_filter = resolve_source_filter(selected_categories)
     result = ask(
@@ -64,22 +74,25 @@ def handle_query(
         history=history,
     )
 
+    # Clean history for Groq API — no source footers
     new_history = history + [
         {"role": "user", "content": question},
         {"role": "assistant", "content": result["answer"]},
     ]
 
-    sources_lines = [f"• {s}" for s in result["sources"]]
-    sources_lines.append(f"\n[{result['retrieval_method']}]")
-    sources_text = "\n".join(sources_lines)
+    # Chatbot display — answer with source footer appended
+    new_chatbot = (chatbot_val or []) + [
+        {"role": "user", "content": question},
+        {"role": "assistant", "content": result["answer"] + build_source_footer(result)},
+    ]
 
     comp_text = compare_for_query(question) if show_comparison else ""
 
-    return new_history, sources_text, comp_text, new_history, ""
+    return new_chatbot, comp_text, new_history, ""
 
 
 def clear_conversation() -> tuple:
-    return [], "", "", [], ""
+    return [], "", [], ""
 
 
 with gr.Blocks(title="ChatZOT", theme=gr.themes.Soft()) as demo:
@@ -87,57 +100,51 @@ with gr.Blocks(title="ChatZOT", theme=gr.themes.Soft()) as demo:
 
     history_state = gr.State([])
 
-    chatbot = gr.Chatbot(
-        label="Conversation",
-        height=400,
-    )
+    with gr.Accordion("Filters & Settings", open=False):
+        categories = gr.CheckboxGroup(
+            choices=list(DOCUMENT_CATEGORIES.keys()),
+            value=list(DOCUMENT_CATEGORIES.keys()),
+            label="Source Type",
+        )
+        with gr.Row():
+            use_hybrid = gr.Checkbox(
+                value=True,
+                label="Hybrid Search (BM25 + Semantic)",
+                info="Combines keyword and semantic search for better exact-match results.",
+            )
+            show_comparison = gr.Checkbox(
+                value=False,
+                label="Compare Chunking Strategies",
+                info="Compares small/medium/large chunking strategies and displays results in the Chunking Strategies Comparison panel below the chat. (Note: takes about ~30s to run the first time).",
+            )
+
+    chatbot = gr.Chatbot(label="Chat", height=450)
 
     inp = gr.Textbox(
-        label="Your query",
-        placeholder="e.g. What are some easy upper-div project courses?",
+        label="Query",
+        show_label=False,
+        placeholder="What are some project-based upper-div courses?",
         lines=2,
     )
-
-    gr.Markdown("**Filter by document type** — leave all unchecked to search everything")
-    categories = gr.CheckboxGroup(
-        choices=list(DOCUMENT_CATEGORIES.keys()),
-        value=[],
-        label="Filters",
-        interactive=True,
-    )
-
     with gr.Row():
-        use_hybrid = gr.Checkbox(
-            value=True,
-            label="Hybrid Search (BM25 + Semantic)",
-            info="Combines keyword and semantic search for better exact-match results.",
-        )
-        show_comparison = gr.Checkbox(
-            value=False,
-            label="Compare Chunking Strategies",
-            info="Shows how Small / Medium / Large chunk sizes compare for this query. Slow on first run (~30s).",
+        btn = gr.Button("Submit", variant="primary", scale=3)
+        clear_btn = gr.Button("New Chat", variant="secondary", scale=1)
+
+    with gr.Accordion("Chunking Strategy Comparison", open=False):
+        comparison = gr.Textbox(
+            label="",
+            show_label=False,
+            lines=14,
+            interactive=False,
+            placeholder="Enable 'Compare Chunking Strategies' in settings above, then submit a query.",
         )
 
-    with gr.Row():
-        btn = gr.Button("Submit", variant="primary")
-        clear_btn = gr.Button("Clear Conversation", variant="secondary")
-
-    sources = gr.Textbox(label="Sources", lines=5, interactive=False)
-    comparison = gr.Textbox(
-        label="Chunking Strategy Comparison",
-        lines=14,
-        interactive=False,
-    )
-
-    inputs = [inp, use_hybrid, show_comparison, categories, history_state]
-    outputs = [chatbot, sources, comparison, history_state, inp]
+    inputs = [inp, use_hybrid, show_comparison, categories, history_state, chatbot]
+    outputs = [chatbot, comparison, history_state, inp]
 
     btn.click(handle_query, inputs=inputs, outputs=outputs)
     inp.submit(handle_query, inputs=inputs, outputs=outputs)
-    clear_btn.click(
-        clear_conversation,
-        outputs=[chatbot, sources, comparison, history_state, inp],
-    )
+    clear_btn.click(clear_conversation, outputs=[chatbot, comparison, history_state, inp])
 
 
 if __name__ == "__main__":
