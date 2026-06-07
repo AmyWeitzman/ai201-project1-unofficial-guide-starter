@@ -68,14 +68,21 @@ def _load_bm25() -> tuple[BM25Okapi, list[dict]]:
 
 
 def _retrieve_semantic(
-    query: str, model: SentenceTransformer, collection: chromadb.Collection, k: int
+    query: str,
+    model: SentenceTransformer,
+    collection: chromadb.Collection,
+    k: int,
+    source_filter: list[str] | None = None,
 ) -> list[dict]:
     embedding = model.encode([query])[0]
-    results = collection.query(
+    query_kwargs: dict = dict(
         query_embeddings=[embedding.tolist()],
         n_results=k,
         include=["documents", "metadatas", "distances"],
     )
+    if source_filter:
+        query_kwargs["where"] = {"source": {"$in": source_filter}}
+    results = collection.query(**query_kwargs)
     return [
         {
             "text": doc,
@@ -91,10 +98,17 @@ def _retrieve_semantic(
     ]
 
 
-def _retrieve_bm25(query: str, k: int) -> list[dict]:
+def _retrieve_bm25(
+    query: str, k: int, source_filter: list[str] | None = None
+) -> list[dict]:
     bm25, chunks = _load_bm25()
     scores = bm25.get_scores(query.lower().split())
-    top_indices = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:k]
+    eligible = (
+        [i for i, c in enumerate(chunks) if c["source"] in source_filter]
+        if source_filter
+        else list(range(len(chunks)))
+    )
+    top_indices = sorted(eligible, key=lambda i: scores[i], reverse=True)[:k]
     return [
         {
             "text": chunks[i]["text"],
@@ -130,7 +144,12 @@ def _build_context(chunks: list[dict]) -> str:
     return "\n\n---\n\n".join(parts)
 
 
-def ask(question: str, k: int = TOP_K, use_hybrid: bool = True) -> dict:
+def ask(
+    question: str,
+    k: int = TOP_K,
+    use_hybrid: bool = True,
+    source_filter: list[str] | None = None,
+) -> dict:
     """
     Run the full RAG pipeline for a question.
 
@@ -139,15 +158,18 @@ def ask(question: str, k: int = TOP_K, use_hybrid: bool = True) -> dict:
     """
     model, collection, groq_client = _load_resources()
 
-    semantic_chunks = _retrieve_semantic(question, model, collection, k)
+    semantic_chunks = _retrieve_semantic(question, model, collection, k, source_filter)
 
     if use_hybrid:
-        bm25_chunks = _retrieve_bm25(question, k)
+        bm25_chunks = _retrieve_bm25(question, k, source_filter)
         chunks = _rrf_merge(semantic_chunks, bm25_chunks, k)
         retrieval_method = "hybrid (semantic + BM25, RRF merge)"
     else:
         chunks = semantic_chunks
         retrieval_method = "semantic only"
+
+    if source_filter:
+        retrieval_method += f" | filtered to {len(source_filter)} source(s)"
 
     context = _build_context(chunks)
     user_message = f"Context documents:\n\n{context}\n\n---\n\nQuestion: {question}"
